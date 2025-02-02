@@ -10,6 +10,7 @@ This script (`collect_data.py`) is designed to **process and match supplier pric
 | [Installation and Execution](#-installation-and-execution) | Step-by-step guide on setting up and running the script |
 | [How Does `SentenceTransformer` Work?](#-how-does-sentencetransformer-work) | Explanation of how `SentenceTransformer` is used for matching products based on semantic similarity |
 | [Project Structure](#-project-structure) | Folder structure explanation |
+| [Usage Presentation](#-usage-presentation) | Presentation of a worked script |
 | [Contacts](#-contacts) | Developer contact information |
 
 ## **🚀 Functionality**
@@ -93,6 +94,11 @@ This script uses the `fine_tuned_mpnet_v3` model for **finding similarity betwee
 ├── 📜 Прайсы с телеграма.xlsx     # Supplier price list
 └── 📜 Товары магазина.xlsx        # Store product list
 ```
+
+---
+
+## 🎥 **Usage presentation**
+![image](https://github.com/user-attachments/assets/3d87470d-def5-4ebe-a605-b44517d80d37)
 
 ---
 
