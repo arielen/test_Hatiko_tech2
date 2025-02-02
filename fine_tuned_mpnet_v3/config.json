@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "fine_tuned_mpnet_v2_temp",
+  "_name_or_path": "fine_tuned_mpnet_v3",
   "architectures": [
     "MPNetModel"
   ],

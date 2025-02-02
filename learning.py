@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer, InputExample, losses, eva
 from torch.utils.data import DataLoader
 
 
-model = SentenceTransformer("fine_tuned_mpnet_v2_temp")
+model = SentenceTransformer("arielen/fine-tuned-mpnet-v3")
 df = pd.read_csv("fine_tune.csv", sep=",", encoding="utf-8")
 
 train_examples = [
@@ -30,8 +30,8 @@ model.fit(
     warmup_steps=int(len(train_dataloader) * 0.1),
     evaluation_steps=100,
     save_best_model=True,
-    output_path="fine_tuned_mpnet_v3",
+    output_path="fine_tuned_mpnet_v4",
 )
 
-model.save("fine_tuned_mpnet_v3")
+model.save("fine_tuned_mpnet_v4")
 print("✅ Модель сохранена в fine_tuned_mpnet_v31")

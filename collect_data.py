@@ -441,7 +441,7 @@ def main() -> None:
     df_shop = pd.read_excel("Товары магазина.xlsx")
     df_shop = get_normalyze_df_shop(df_shop)
 
-    model = SentenceTransformer("fine_tuned_mpnet_v3")
+    model = SentenceTransformer("arielen/fine-tuned-mpnet-v3")
 
     new_df = pd.DataFrame(columns=["Товар поставщика", "Товар в магазине"])
 
