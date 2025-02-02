@@ -11,6 +11,7 @@ This script (`collect_data.py`) is designed to **process and match supplier pric
 | [How Does `SentenceTransformer` Work?](#-how-does-sentencetransformer-work) | Explanation of how `SentenceTransformer` is used for matching products based on semantic similarity |
 | [Project Structure](#-project-structure) | Folder structure explanation |
 | [Usage Presentation](#-usage-presentation) | Presentation of a worked script |
+| [Trained Model](#-trained-model) | Link to the fine-tuned ML model |
 | [Contacts](#-contacts) | Developer contact information |
 
 ## **🚀 Functionality**
@@ -99,6 +100,12 @@ This script uses the `fine_tuned_mpnet_v3` model for **finding similarity betwee
 
 ## 🎥 **Usage presentation**
 ![image](https://github.com/user-attachments/assets/3d87470d-def5-4ebe-a605-b44517d80d37)
+
+---
+
+## 🔗 **Trained Model**
+The fine-tuned ML model used in this project is available on Hugging Face:
+[Fine-Tuned MPNet v3](https://huggingface.co/arielen/fine-tuned-mpnet-v3)
 
 ---
 
