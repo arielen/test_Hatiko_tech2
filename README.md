@@ -43,8 +43,8 @@ This script (`collect_data.py`) is designed to **process and match supplier pric
 ## **📥 Installation and Execution**
 ### 🔹 **1. Clone the Repository**
 ```bash
-git clone https://github.com/arielen/test_Hatiko_tech.git
-cd test_Hatiko_tech
+git clone https://github.com/arielen/test_Hatiko_tech2.git
+cd test_Hatiko_tech2
 ```
 
 ### 🔹 **2. Install Dependencies**
