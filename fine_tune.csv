@@ -1,0 +1,892 @@
+Товар поставщика,Товар в магазине,correct_match
+"11 slim 64gb (black) | color: black, ram: <na>, rom: 64gb","apple iphone 11 64gb slimbox черный (black) | color: black, ram: nan, rom: 64gb",1
+"11 slim 64gb (white) | color: white, ram: <na>, rom: 64gb","apple iphone 11 64gb slimbox белый (white) | color: white, ram: nan, rom: 64gb",1
+"11 slim 64gb (white) | color: white, ram: <na>, rom: 64gb","apple iphone 11 64gb slimbox черный (black) | color: black, ram: nan, rom: 64gb",0
+"12 12/128gb (purple) | color: purple, ram: 12, rom: 128gb","apple iphone 12 128gb белый (white) | color: white, ram: nan, rom: 128gb",0
+"12 128gb (black) | color: black, ram: <na>, rom: 128gb","xiaomi 12 8/128gb черный (black) | color: black, ram: 8, rom: 128gb",0
+"12 128gb (black) | color: black, ram: <na>, rom: 128gb","apple iphone 12 128gb черный (black) | color: black, ram: nan, rom: 128gb",1
+"12 128gb (black) | color: black, ram: <na>, rom: 128gb","apple iphone 12 128gb белый (white) | color: white, ram: nan, rom: 128gb",0
+"12 128gb (green) | color: green, ram: <na>, rom: 128gb","xiaomi 13 8/128gb зеленый (green) cn | color: green, ram: 8, rom: 128gb",0
+"12 128gb (green) | color: green, ram: <na>, rom: 128gb","apple iphone 12 128gb зеленый (green) | color: green, ram: nan, rom: 128gb",1
+"12 128gb (purple) | color: purple, ram: <na>, rom: 128gb","xiaomi 12 8/128gb фиолетовый (purple) | color: purple, ram: 8, rom: 128gb",0
+"12 128gb (purple) | color: purple, ram: <na>, rom: 128gb","apple iphone 12 128gb фиолетовый (purple) | color: purple, ram: nan, rom: 128gb",1
+"12 128gb (purple) | color: purple, ram: <na>, rom: 128gb","apple iphone 12 128gb белый (white) | color: white, ram: nan, rom: 128gb",0
+"12 256gb (purple) | color: purple, ram: <na>, rom: 256gb","xiaomi 12 pro 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",0
+"12 256gb (purple) | color: purple, ram: <na>, rom: 256gb","apple iphone 12 256gb синий (blue) | color: blue, ram: nan, rom: 256gb",0
+"12 64gb (black) | color: black, ram: <na>, rom: 64gb","apple iphone 12 64gb черный (black) | color: black, ram: nan, rom: 64gb",1
+"12 64gb (black) | color: black, ram: <na>, rom: 64gb","apple iphone 12 64gb белый (white) | color: white, ram: nan, rom: 64gb",0
+"12 64gb (green) | color: green, ram: <na>, rom: 64gb","apple iphone 12 64gb зеленый (green) | color: green, ram: nan, rom: 64gb",1
+"12 64gb (green) | color: green, ram: <na>, rom: 64gb","apple iphone 12 64gb белый (white) | color: white, ram: nan, rom: 64gb",0
+"12 64gb (purple) | color: purple, ram: <na>, rom: 64gb","xiaomi redmi 12c 4/64gb фиолетовый (purple) | color: purple, ram: 4, rom: 64gb",0
+"12 64gb (purple) | color: purple, ram: <na>, rom: 64gb","apple iphone 12 64gb фиолетовый (purple) | color: purple, ram: nan, rom: 64gb",1
+"12 64gb (purple) | color: purple, ram: <na>, rom: 64gb","apple iphone 12 64gb белый (white) | color: white, ram: nan, rom: 64gb",0
+"12 64gb (white) | color: white, ram: <na>, rom: 64gb","apple iphone 12 64gb белый (white) | color: white, ram: nan, rom: 64gb",1
+"12 mini 64gb (blue) | color: blue, ram: <na>, rom: 64gb","apple iphone 12 mini 64gb синий (blue) | color: blue, ram: nan, rom: 64gb",1
+"12 mini 64gb (red) | color: red, ram: <na>, rom: 64gb","apple iphone 12 mini 64gb красный (product)red | color: red, ram: nan, rom: 64gb",1
+"12 mini 64gb (red) | color: red, ram: <na>, rom: 64gb","apple iphone 12 mini 64gb синий (blue) | color: blue, ram: nan, rom: 64gb",0
+"12 mini 64gb (white) | color: white, ram: <na>, rom: 64gb","apple iphone 12 mini 64gb белый (white) | color: white, ram: nan, rom: 64gb",1
+"13 128gb (blue) | color: blue, ram: <na>, rom: 128gb","xiaomi 13 8/128gb синий (blue) cn | color: blue, ram: 8, rom: 128gb",0
+"13 128gb (blue) | color: blue, ram: <na>, rom: 128gb","apple iphone 13 128gb синий (blue) | color: blue, ram: nan, rom: 128gb",1
+"13 128gb (green) | color: green, ram: <na>, rom: 128gb","xiaomi 13 8/128gb зеленый (green) cn | color: green, ram: 8, rom: 128gb",0
+"13 128gb (green) | color: green, ram: <na>, rom: 128gb","apple iphone 13 128gb зеленый (green) | color: green, ram: nan, rom: 128gb",1
+"13 128gb (midnight) | color: midnight, ram: <na>, rom: 128gb","apple iphone 13 128gb темная ночь (midnight) | color: midnight, ram: nan, rom: 128gb",1
+"13 256gb (pink) | color: pink, ram: <na>, rom: 256gb","xiaomi 14 8/256gb розовый (pink) | color: pink, ram: 8, rom: 256gb",0
+"13 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple iphone 13 256gb розовый (pink) | color: pink, ram: nan, rom: 256gb",1
+"13 256gb (red) | color: red, ram: <na>, rom: 256gb","apple iphone 13 mini 256gb (product)red | color: red, ram: nan, rom: 256gb",0
+"13 256gb (red) | color: red, ram: <na>, rom: 256gb","apple iphone 13 256gb красный (product)red | color: red, ram: nan, rom: 256gb",1
+"13 512gb (green) | color: green, ram: <na>, rom: 512gb","xiaomi 13 12/512gb зеленый (green) cn | color: green, ram: 12, rom: 512gb",0
+"13 512gb (green) | color: green, ram: <na>, rom: 512gb","apple iphone 13 512gb зеленый (green) | color: green, ram: nan, rom: 512gb",1
+"13 512gb (pink) | color: pink, ram: <na>, rom: 512gb","apple iphone 16 512gb розовый (pink) nano sim + esim | color: pink, ram: 8, rom: 512gb",0
+"13 512gb (pink) | color: pink, ram: <na>, rom: 512gb","xiaomi 14 16/512gb розовый (pink) | color: pink, ram: 16, rom: 512gb",0
+"13 512gb (pink) | color: pink, ram: <na>, rom: 512gb","apple iphone 13 512gb красный (product)red | color: red, ram: nan, rom: 512gb",0
+"13 512gb (red) | color: red, ram: <na>, rom: 512gb","apple iphone 13 mini 512gb (product)red | color: red, ram: nan, rom: 512gb",0
+"13 512gb (red) | color: red, ram: <na>, rom: 512gb","apple iphone 13 512gb красный (product)red | color: red, ram: nan, rom: 512gb",1
+"14 128gb (red) | color: red, ram: <na>, rom: 128gb","samsung galaxy a14 6/128gb красный (red) | color: red, ram: 6, rom: 128gb",0
+"14 128gb (red) | color: red, ram: <na>, rom: 128gb","apple iphone 14 128gb красный (product)red nano sim + esim | color: red, ram: nan, rom: 128gb",1
+"14 128gb (red) | color: red, ram: <na>, rom: 128gb","apple iphone 14 128gb красный (product)red esim | color: red, ram: nan, rom: 128gb",0
+"14 128gb (yellow) | color: yellow, ram: <na>, rom: 128gb","poco m5 4/128gb желтый (yellow) | color: yellow, ram: 4, rom: 128gb",0
+"14 128gb (yellow) | color: yellow, ram: <na>, rom: 128gb","apple iphone 14 128gb желтый (yellow) nano sim + esim | color: yellow, ram: nan, rom: 128gb",1
+"14 128gb (yellow) | color: yellow, ram: <na>, rom: 128gb","apple iphone 14 128gb голубой (blue) esim | color: blue, ram: nan, rom: 128gb",0
+"14 256gb (blue) | color: blue, ram: <na>, rom: 256gb","xiaomi redmi 14c 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"14 256gb (blue) | color: blue, ram: <na>, rom: 256gb","apple iphone 14 256gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 256gb",1
+"14 256gb (blue) | color: blue, ram: <na>, rom: 256gb","apple iphone 14 256gb голубой (blue) esim | color: blue, ram: nan, rom: 256gb",0
+"14 256gb (midnight) | color: midnight, ram: <na>, rom: 256gb","apple iphone 14 plus 256gb темная ночь (midnight) dualsim | color: midnight, ram: nan, rom: 256gb",0
+"14 256gb (midnight) | color: midnight, ram: <na>, rom: 256gb","apple iphone 14 256gb темная ночь (midnight) nano sim + esim | color: midnight, ram: nan, rom: 256gb",1
+"14 256gb (midnight) | color: midnight, ram: <na>, rom: 256gb","apple iphone 14 256gb темная ночь (midnight) esim | color: midnight, ram: nan, rom: 256gb",0
+"14 256gb (purple) | color: purple, ram: <na>, rom: 256gb","xiaomi redmi 14c 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",0
+"14 256gb (purple) | color: purple, ram: <na>, rom: 256gb","apple iphone 14 256gb фиолетовый (purple) nano sim + esim | color: purple, ram: nan, rom: 256gb",1
+"14 256gb (purple) | color: purple, ram: <na>, rom: 256gb","apple iphone 14 256gb голубой (blue) esim | color: blue, ram: nan, rom: 256gb",0
+"14 256gb (red) | color: red, ram: <na>, rom: 256gb","apple iphone 13 mini 256gb (product)red | color: red, ram: nan, rom: 256gb",0
+"14 256gb (red) | color: red, ram: <na>, rom: 256gb","apple iphone 14 256gb красный (product)red nano sim + esim | color: red, ram: nan, rom: 256gb",1
+"14 256gb (red) | color: red, ram: <na>, rom: 256gb","apple iphone 14 256gb красный (product) red esim | color: red, ram: nan, rom: 256gb",0
+"14 256gb (yellow) | color: yellow, ram: <na>, rom: 256gb","zte nubia neo 2 8/256gb желтый (yellow) | color: yellow, ram: 8, rom: 256gb",0
+"14 256gb (yellow) | color: yellow, ram: <na>, rom: 256gb","apple iphone 14 256gb желтый (yellow) nano sim + esim | color: yellow, ram: nan, rom: 256gb",1
+"14 256gb (yellow) | color: yellow, ram: <na>, rom: 256gb","apple iphone 14 256gb голубой (blue) esim | color: blue, ram: nan, rom: 256gb",0
+"14 512gb (blue) | color: blue, ram: <na>, rom: 512gb","oneplus 13 16/512gb синий (blue) | color: blue, ram: 16, rom: 512gb",0
+"14 512gb (blue) | color: blue, ram: <na>, rom: 512gb","apple iphone 14 512gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 512gb",1
+"14 512gb (blue) | color: blue, ram: <na>, rom: 512gb","apple iphone 14 512gb голубой (blue) esim | color: blue, ram: nan, rom: 512gb",0
+"14 512gb (midnight) | color: midnight, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb темная ночь (midnight) dualsim | color: midnight, ram: nan, rom: 512gb",0
+"14 512gb (midnight) | color: midnight, ram: <na>, rom: 512gb","apple iphone 14 512gb темная ночь (midnight) dualsim | color: midnight, ram: nan, rom: 512gb",1
+"14 512gb (midnight) | color: midnight, ram: <na>, rom: 512gb","apple iphone 14 512gb темная ночь (midnight) nano sim + esim | color: midnight, ram: nan, rom: 512gb",1
+"14 512gb (midnight) | color: midnight, ram: <na>, rom: 512gb","apple iphone 14 512gb черный (midnight) esim | color: midnight, ram: nan, rom: 512gb",0
+"14 512gb (purple) | color: purple, ram: <na>, rom: 512gb","xiaomi 15 16/512gb фиолетовый (purple) | color: purple, ram: 16, rom: 512gb",0
+"14 512gb (purple) | color: purple, ram: <na>, rom: 512gb","apple iphone 14 512gb фиолетовый (purple) nano sim + esim | color: purple, ram: nan, rom: 512gb",1
+"14 512gb (purple) | color: purple, ram: <na>, rom: 512gb","apple iphone 14 512gb голубой (blue) esim | color: blue, ram: nan, rom: 512gb",0
+"14 512gb (red) | color: red, ram: <na>, rom: 512gb","zte nubia red magic 9 pro 16/512gb серебро (silver) | color: red, ram: 16, rom: 512gb",0
+"14 512gb (red) | color: red, ram: <na>, rom: 512gb","apple iphone 14 512gb красный (product)red nano sim + esim | color: red, ram: nan, rom: 512gb",1
+"14 512gb (red) | color: red, ram: <na>, rom: 512gb","apple iphone 14 512gb красный (product) red esim | color: red, ram: nan, rom: 512gb",0
+"14 512gb (starlight) | color: starlight, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb сияющая звезда (starlight) dualsim | color: starlight, ram: nan, rom: 512gb",0
+"14 512gb (starlight) | color: starlight, ram: <na>, rom: 512gb","apple iphone 14 512gb сияющая звезда (starlight) nano sim + esim | color: starlight, ram: nan, rom: 512gb",1
+"14 512gb (starlight) | color: starlight, ram: <na>, rom: 512gb","apple iphone 14 512gb сияющая звезда (starlight) esim | color: starlight, ram: nan, rom: 512gb",0
+"14 512gb (yellow) | color: yellow, ram: <na>, rom: 512gb","zte nubia z70 ultra 16/512gb желтый (yellow) | color: yellow, ram: 16, rom: 512gb",0
+"14 512gb (yellow) | color: yellow, ram: <na>, rom: 512gb","apple iphone 14 512gb желтый (yellow) nano sim + esim | color: yellow, ram: nan, rom: 512gb",1
+"14 512gb (yellow) | color: yellow, ram: <na>, rom: 512gb","apple iphone 14 512gb голубой (blue) esim | color: blue, ram: nan, rom: 512gb",0
+"14 plus 128gb (yellow) | color: yellow, ram: <na>, rom: 128gb","apple iphone 14 plus 128gb желтый (yellow) dualsim | color: yellow, ram: nan, rom: 128gb",1
+"14 plus 128gb (yellow) | color: yellow, ram: <na>, rom: 128gb","apple iphone 14 plus 128gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 128gb",0
+"14 plus 512gb (blue) | color: blue, ram: <na>, rom: 512gb","oneplus 13 16/512gb синий (blue) | color: blue, ram: 16, rom: 512gb",0
+"14 plus 512gb (blue) | color: blue, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb голубой (blue) dualsim | color: blue, ram: nan, rom: 512gb",1
+"14 plus 512gb (blue) | color: blue, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 512gb",0
+"14 plus 512gb (purple) | color: purple, ram: <na>, rom: 512gb","xiaomi 15 16/512gb фиолетовый (purple) | color: purple, ram: 16, rom: 512gb",0
+"14 plus 512gb (purple) | color: purple, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb фиолетовый (purple) dualsim | color: purple, ram: nan, rom: 512gb",1
+"14 plus 512gb (purple) | color: purple, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 512gb",0
+"14 plus 512gb (red) | color: red, ram: <na>, rom: 512gb","zte nubia red magic 9 pro 16/512gb серебро (silver) | color: red, ram: 16, rom: 512gb",0
+"14 plus 512gb (red) | color: red, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb красный (product)red dualsim | color: red, ram: nan, rom: 512gb",1
+"14 plus 512gb (red) | color: red, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb красный (product)red nano sim + esim | color: red, ram: nan, rom: 512gb",1
+"14 plus 512gb (starlight) | color: starlight, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb сияющая звезда (starlight) dualsim | color: starlight, ram: nan, rom: 512gb",0
+"14 plus 512gb (starlight) | color: starlight, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb сияющая звезда (starlight) nano sim + esim | color: starlight, ram: nan, rom: 512gb",1
+"14 plus 512gb (yellow) | color: yellow, ram: <na>, rom: 512gb","zte nubia z70 ultra 16/512gb желтый (yellow) | color: yellow, ram: 16, rom: 512gb",0
+"14 plus 512gb (yellow) | color: yellow, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb желтый (yellow) nano sim + esim | color: yellow, ram: nan, rom: 512gb",1
+"14 plus 512gb (yellow) | color: yellow, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb красный (product)red nano sim + esim | color: red, ram: nan, rom: 512gb",0
+"14 pro max 512gb (gold) | color: gold, ram: <na>, rom: 512gb","apple iphone 14 pro max 512gb золото (gold) nano sim + esim | color: gold, ram: nan, rom: 512gb",1
+"14 pro max 512gb (gold) | color: gold, ram: <na>, rom: 512gb","apple iphone 14 pro max 512gb золото (gold) dualsim | color: gold, ram: nan, rom: 512gb",0
+"14 pro max 512gb (gold) | color: gold, ram: <na>, rom: 512gb","apple iphone 14 pro max 128gb золото (gold) dualsim | color: gold, ram: nan, rom: 128gb",0
+"15 128gb (black) | color: black, ram: <na>, rom: 128gb","xiaomi 13 8/128gb черный (black) cn | color: black, ram: 8, rom: 128gb",0
+"15 128gb (black) | color: black, ram: <na>, rom: 128gb","apple iphone 15 128gb черный (black) nano sim + esim | color: black, ram: nan, rom: 128gb",1
+"15 128gb (black) | color: black, ram: <na>, rom: 128gb","apple iphone 15 128gb черный (black) esim | color: black, ram: nan, rom: 128gb",0
+"15 128gb (blue) | color: blue, ram: <na>, rom: 128gb","xiaomi 12 8/128gb синий (blue) | color: blue, ram: 8, rom: 128gb",0
+"15 128gb (blue) | color: blue, ram: <na>, rom: 128gb","apple iphone 15 128gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 128gb",1
+"15 128gb (blue) | color: blue, ram: <na>, rom: 128gb","apple iphone 15 128gb голубой (blue) dualsim | color: blue, ram: nan, rom: 128gb",0
+"15 128gb (green) | color: green, ram: <na>, rom: 128gb","xiaomi 13 8/128gb зеленый (green) cn | color: green, ram: 8, rom: 128gb",0
+"15 128gb (green) | color: green, ram: <na>, rom: 128gb","apple iphone 15 128gb зеленый (green) nano sim + esim | color: green, ram: nan, rom: 128gb",1
+"15 128gb (green) | color: green, ram: <na>, rom: 128gb","apple iphone 15 128gb голубой (blue) esim | color: blue, ram: nan, rom: 128gb",0
+"15 128gb (midnight) | color: midnight, ram: <na>, rom: 128gb","apple iphone 14 128gb темная ночь (midnight) esim | color: midnight, ram: nan, rom: 128gb",0
+"15 128gb (midnight) | color: midnight, ram: <na>, rom: 128gb","apple iphone 13 128gb темная ночь (midnight) | color: midnight, ram: nan, rom: 128gb",0
+"15 128gb (midnight) | color: midnight, ram: <na>, rom: 128gb","apple iphone 15 128gb черный (black) esim | color: black, ram: nan, rom: 128gb",0
+"15 128gb (pink) | color: pink, ram: <na>, rom: 128gb","xiaomi 13 lite 8/128gb розовый (pink) | color: pink, ram: 8, rom: 128gb",0
+"15 128gb (pink) | color: pink, ram: <na>, rom: 128gb","apple iphone 15 128gb розовый (pink) nano sim + esim | color: pink, ram: nan, rom: 128gb",1
+"15 128gb (pink) | color: pink, ram: <na>, rom: 128gb","apple iphone 15 128gb розовый (pink) esim | color: pink, ram: nan, rom: 128gb",0
+"15 256gb (black) | color: black, ram: <na>, rom: 256gb","xiaomi 15 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",0
+"15 256gb (black) | color: black, ram: <na>, rom: 256gb","apple iphone 15 256gb черный (black) nano sim + esim | color: black, ram: nan, rom: 256gb",1
+"15 256gb (black) | color: black, ram: <na>, rom: 256gb","apple iphone 15 256gb черный (black) esim | color: black, ram: nan, rom: 256gb",0
+"15 256gb (blue) | color: blue, ram: <na>, rom: 256gb","xiaomi 12 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"15 256gb (blue) | color: blue, ram: <na>, rom: 256gb","apple iphone 15 256gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 256gb",1
+"15 256gb (blue) | color: blue, ram: <na>, rom: 256gb","apple iphone 15 256gb голубой (blue) dualsim | color: blue, ram: nan, rom: 256gb",0
+"15 256gb (green) | color: green, ram: <na>, rom: 256gb","xiaomi 15 12/256gb зеленый (green) | color: green, ram: 12, rom: 256gb",0
+"15 256gb (green) | color: green, ram: <na>, rom: 256gb","apple iphone 15 256gb зеленый (green) nano sim + esim | color: green, ram: nan, rom: 256gb",1
+"15 256gb (green) | color: green, ram: <na>, rom: 256gb","apple iphone 15 256gb зеленый (green) dualsim | color: green, ram: nan, rom: 256gb",0
+"15 256gb (midnight) | color: midnight, ram: <na>, rom: 256gb","apple iphone 14 256gb темная ночь (midnight) nano sim + esim | color: midnight, ram: nan, rom: 256gb",0
+"15 256gb (midnight) | color: midnight, ram: <na>, rom: 256gb","apple iphone 13 256gb темная ночь (midnight) | color: midnight, ram: nan, rom: 256gb",0
+"15 256gb (midnight) | color: midnight, ram: <na>, rom: 256gb","apple iphone 15 256gb черный (black) esim | color: black, ram: nan, rom: 256gb",0
+"15 256gb (pink) | color: pink, ram: <na>, rom: 256gb","xiaomi 14 8/256gb розовый (pink) | color: pink, ram: 8, rom: 256gb",0
+"15 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple iphone 15 256gb розовый (pink) nano sim + esim | color: pink, ram: nan, rom: 256gb",1
+"15 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple iphone 15 256gb розовый (pink) esim | color: pink, ram: nan, rom: 256gb",0
+"15 256gb (yellow) | color: yellow, ram: <na>, rom: 256gb","zte nubia neo 2 8/256gb желтый (yellow) | color: yellow, ram: 8, rom: 256gb",0
+"15 256gb (yellow) | color: yellow, ram: <na>, rom: 256gb","apple iphone 15 256gb желтый (yellow) nano sim + esim | color: yellow, ram: nan, rom: 256gb",1
+"15 256gb (yellow) | color: yellow, ram: <na>, rom: 256gb","apple iphone 15 256gb желтый (yellow) esim | color: yellow, ram: nan, rom: 256gb",0
+"15 plus 128gb (midnight) | color: midnight, ram: <na>, rom: 128gb","apple iphone 14 plus 128gb темная ночь (midnight) dualsim | color: midnight, ram: nan, rom: 128gb",0
+"15 plus 128gb (midnight) | color: midnight, ram: <na>, rom: 128gb","apple iphone 15 plus 128gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 128gb",0
+"15 plus 128gb (pink) | color: pink, ram: <na>, rom: 128gb","xiaomi 13 lite 8/128gb розовый (pink) | color: pink, ram: 8, rom: 128gb",0
+"15 plus 128gb (pink) | color: pink, ram: <na>, rom: 128gb","apple iphone 15 plus 128gb розовый (pink) nano sim + esim | color: pink, ram: nan, rom: 128gb",1
+"15 plus 128gb (pink) | color: pink, ram: <na>, rom: 128gb","apple iphone 15 plus 128gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 128gb",0
+"15 plus 512gb (midnight) | color: midnight, ram: <na>, rom: 512gb","apple iphone 14 plus 512gb темная ночь (midnight) dualsim | color: midnight, ram: nan, rom: 512gb",0
+"15 plus 512gb (midnight) | color: midnight, ram: <na>, rom: 512gb","apple iphone 15 plus 512gb голубой (blue) nano sim + esim | color: blue, ram: nan, rom: 512gb",0
+"15 pro 128gb (blue) | color: blue, ram: <na>, rom: 128gb","apple iphone 15 plus 128gb голубой (blue) esim | color: blue, ram: nan, rom: 128gb",0
+"15 pro 128gb (blue) | color: blue, ram: <na>, rom: 128gb","xiaomi 13 lite 8/128gb голубой (blue) | color: blue, ram: 8, rom: 128gb",0
+"15 pro 128gb (blue) | color: blue, ram: <na>, rom: 128gb","apple iphone 15 pro 128gb белый (white titanium) esim | color: white titanium, ram: nan, rom: 128gb",0
+"15 pro 128gb (natural) | color: natural, ram: <na>, rom: 128gb","apple iphone 15 pro 128gb белый (white titanium) esim | color: white titanium, ram: nan, rom: 128gb",0
+"15 pro 128gb (white) | color: white, ram: <na>, rom: 128gb","poco m5s 4/128gb белый (white) | color: white, ram: 4, rom: 128gb",0
+"15 pro 128gb (white) | color: white, ram: <na>, rom: 128gb","xiaomi 13 8/128gb белый (white) cn | color: white, ram: 8, rom: 128gb",0
+"15 pro 128gb (white) | color: white, ram: <na>, rom: 128gb","apple iphone 15 pro 128gb белый (white titanium) esim | color: white titanium, ram: nan, rom: 128gb",0
+"15 pro max 256gb (blue) | color: blue, ram: <na>, rom: 256gb","blackview tab 15 pro lte 8/256gb голубой | color: blue, ram: 8, rom: 256gb",0
+"15 pro max 256gb (blue) | color: blue, ram: <na>, rom: 256gb","xiaomi 13 lite 8/256gb голубой (blue) | color: blue, ram: 8, rom: 256gb",0
+"15 pro max 256gb (blue) | color: blue, ram: <na>, rom: 256gb","apple iphone 15 pro max 256gb титан (natural titanium) esim | color: natural titanium, ram: nan, rom: 256gb",0
+"15 pro max 256gb (natural) | color: natural, ram: <na>, rom: 256gb","apple iphone 15 pro max 256gb титан (natural titanium) esim | color: natural titanium, ram: nan, rom: 256gb",0
+"16 128gb (pink) | color: pink, ram: <na>, rom: 128gb","xiaomi 13 lite 8/128gb розовый (pink) | color: pink, ram: 8, rom: 128gb",0
+"16 128gb (pink) | color: pink, ram: <na>, rom: 128gb","apple iphone 16 128gb розовый (pink) nano sim + esim | color: pink, ram: 8, rom: 128gb",1
+"16 128gb (teal) | color: teal, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb бирюзовый (teal) dualsim | color: teal, ram: 8, rom: 128gb",0
+"16 128gb (teal) | color: teal, ram: <na>, rom: 128gb","apple iphone 16 128gb бирюзовый (teal) nano sim + esim | color: teal, ram: 8, rom: 128gb",1
+"16 128gb (teal) | color: teal, ram: <na>, rom: 128gb","apple iphone 16 128gb бирюзовый (teal) dualsim | color: teal, ram: 8, rom: 128gb",0
+"16 128gb (white) | color: white, ram: <na>, rom: 128gb","xiaomi 13 8/128gb белый (white) cn | color: white, ram: 8, rom: 128gb",0
+"16 128gb (white) | color: white, ram: <na>, rom: 128gb","apple iphone 16 128gb белый (white) nano sim + esim | color: white, ram: 8, rom: 128gb",1
+"16 16/128gb (black) | color: black, ram: 16, rom: 128gb","apple iphone 16 512gb черный (black) dualsim | color: black, ram: 8, rom: 512gb",0
+"16 16/128gb (pink) | color: pink, ram: 16, rom: 128gb","apple iphone 16 512gb розовый (pink) dualsim | color: pink, ram: 8, rom: 512gb",0
+"16 16/128gb (teal) | color: teal, ram: 16, rom: 128gb","apple iphone 16 256gb бирюзовый (teal) dualsim | color: teal, ram: 8, rom: 256gb",0
+"16 16/128gb (ultramarine) | color: ultramarine, ram: 16, rom: 128gb","apple iphone 16 512gb черный (black) dualsim | color: black, ram: 8, rom: 512gb",0
+"16 16/256gb (ultramarine) | color: ultramarine, ram: 16, rom: 256gb","apple iphone 16 512gb ультрамарин (ultramarine) dualsim | color: ultramarine, ram: 8, rom: 512gb",0
+"16 256gb (black) | color: black, ram: <na>, rom: 256gb","xiaomi 14 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",0
+"16 256gb (black) | color: black, ram: <na>, rom: 256gb","apple iphone 16 256gb черный (black) nano sim + esim | color: black, ram: 8, rom: 256gb",1
+"16 256gb (pink) | color: pink, ram: <na>, rom: 256gb","xiaomi 14 8/256gb розовый (pink) | color: pink, ram: 8, rom: 256gb",0
+"16 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple iphone 16 256gb розовый (pink) nano sim + esim | color: pink, ram: 8, rom: 256gb",1
+"16 256gb (teal) | color: teal, ram: <na>, rom: 256gb","apple iphone 16 plus 256gb бирюзовый (teal) dualsim | color: teal, ram: 8, rom: 256gb",0
+"16 256gb (teal) | color: teal, ram: <na>, rom: 256gb","apple iphone 16 256gb бирюзовый (teal) nano sim + esim | color: teal, ram: 8, rom: 256gb",1
+"16 256gb (teal) | color: teal, ram: <na>, rom: 256gb","apple iphone 16 256gb бирюзовый (teal) dualsim | color: teal, ram: 8, rom: 256gb",0
+"16 256gb (ultramarine) | color: ultramarine, ram: <na>, rom: 256gb","apple iphone 16 plus 256gb ультрамарин (ultramarine) dualsim | color: ultramarine, ram: 8, rom: 256gb",0
+"16 256gb (ultramarine) | color: ultramarine, ram: <na>, rom: 256gb","apple iphone 16 256gb ультрамарин (ultramarine) nano sim + esim | color: ultramarine, ram: 8, rom: 256gb",1
+"16 256gb (white) | color: white, ram: <na>, rom: 256gb","xiaomi 14 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",0
+"16 256gb (white) | color: white, ram: <na>, rom: 256gb","apple iphone 16 256gb белый (white) nano sim + esim | color: white, ram: 8, rom: 256gb",1
+"16 plus 128gb (black) | color: black, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb черный (black) dualsim | color: black, ram: 8, rom: 128gb",0
+"16 plus 128gb (black) | color: black, ram: <na>, rom: 128gb","oneplus nord n20 se 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",0
+"16 plus 128gb (black) | color: black, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb розовый (pink) nano sim + esim | color: pink, ram: 8, rom: 128gb",0
+"16 plus 128gb (teal) | color: teal, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb бирюзовый (teal) dualsim | color: teal, ram: 8, rom: 128gb",0
+"16 plus 128gb (teal) | color: teal, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb бирюзовый (teal) nano sim + esim | color: teal, ram: 8, rom: 128gb",1
+"16 plus 128gb (ultramarine) | color: ultramarine, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb ультрамарин (ultramarine) dualsim | color: ultramarine, ram: 8, rom: 128gb",0
+"16 plus 128gb (ultramarine) | color: ultramarine, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb розовый (pink) nano sim + esim | color: pink, ram: 8, rom: 128gb",0
+"16 plus 128gb (white) | color: white, ram: <na>, rom: 128gb","xiaomi redmi 13c 4/128gb белый (white) | color: white, ram: 4, rom: 128gb",0
+"16 plus 128gb (white) | color: white, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb белый (white) nano sim + esim | color: white, ram: 8, rom: 128gb",1
+"16 plus 128gb (white) | color: white, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb розовый (pink) nano sim + esim | color: pink, ram: 8, rom: 128gb",0
+"16 pro 128gb (black) | color: black, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb черный (black) dualsim | color: black, ram: 8, rom: 128gb",0
+"16 pro 128gb (black) | color: black, ram: <na>, rom: 128gb","xiaomi 12 8/128gb черный (black) | color: black, ram: 8, rom: 128gb",0
+"16 pro 128gb (black) | color: black, ram: <na>, rom: 128gb","apple iphone 16 pro 128gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 128gb",0
+"16 pro 128gb (desert) | color: desert, ram: <na>, rom: 128gb","apple iphone 16 pro 128gb пустынный титан (desert titanium) esim | color: desert titanium, ram: 8, rom: 128gb",0
+"16 pro 128gb (natural) | color: natural, ram: <na>, rom: 128gb","apple iphone 16 pro 128gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 128gb",0
+"16 pro 128gb (white) | color: white, ram: <na>, rom: 128gb","apple iphone 16 plus 128gb белый (white) dualsim | color: white, ram: 8, rom: 128gb",0
+"16 pro 128gb (white) | color: white, ram: <na>, rom: 128gb","xiaomi 13 8/128gb белый (white) cn | color: white, ram: 8, rom: 128gb",0
+"16 pro 128gb (white) | color: white, ram: <na>, rom: 128gb","apple iphone 16 pro 128gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 128gb",0
+"16 pro 256gb (black) | color: black, ram: <na>, rom: 256gb","apple iphone 16 plus 256gb черный (black) dualsim | color: black, ram: 8, rom: 256gb",0
+"16 pro 256gb (black) | color: black, ram: <na>, rom: 256gb","xiaomi 14 pro 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",0
+"16 pro 256gb (black) | color: black, ram: <na>, rom: 256gb","apple iphone 16 pro 256gb черный (black titanium) esim | color: black titanium, ram: 8, rom: 256gb",0
+"16 pro 256gb (desert) | color: desert, ram: <na>, rom: 256gb","apple iphone 16 pro 256gb пустынный титан (desert titanium) esim | color: desert titanium, ram: 8, rom: 256gb",0
+"16 pro 256gb (natural) | color: natural, ram: <na>, rom: 256gb","apple iphone 16 pro 256gb белый (white titanium) nano sim + esim | color: white titanium, ram: 8, rom: 256gb",0
+"16 pro 256gb (white) | color: white, ram: <na>, rom: 256gb","xiaomi 14 pro 12/256gb белый (white) | color: white, ram: 12, rom: 256gb",0
+"16 pro 256gb (white) | color: white, ram: <na>, rom: 256gb","apple iphone 16 pro 128gb белый (white titanium) nano sim + esim | color: white titanium, ram: 8, rom: 128gb",1
+"16 pro 256gb (white) | color: white, ram: <na>, rom: 256gb","apple iphone 16 pro 256gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 256gb",0
+"16 pro 512gb (natural) | color: natural, ram: <na>, rom: 512gb","apple iphone 16 pro 512gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 512gb",0
+"16 pro 512gb (white) | color: white, ram: <na>, rom: 512gb","apple iphone 16 plus 512gb белый (white) dualsim | color: white, ram: 8, rom: 512gb",0
+"16 pro 512gb (white) | color: white, ram: <na>, rom: 512gb","xiaomi 14 pro 16/512gb белый (white) | color: white, ram: 16, rom: 512gb",0
+"16 pro 512gb (white) | color: white, ram: <na>, rom: 512gb","apple iphone 16 pro 512gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 512gb",0
+"16 pro max 256gb (black) | color: black, ram: <na>, rom: 256gb","apple iphone 16 plus 256gb черный (black) nano sim + esim | color: black, ram: 8, rom: 256gb",0
+"16 pro max 256gb (black) | color: black, ram: <na>, rom: 256gb","microsoft surface pro 9 i7 16/256gb графит | color: black, ram: 16, rom: 256gb",0
+"16 pro max 256gb (black) | color: black, ram: <na>, rom: 256gb","apple iphone 16 pro max 256gb черный (black titanium) nano sim + esim | color: black titanium, ram: 8, rom: 256gb",1
+"16 pro max 256gb (black) | color: black, ram: <na>, rom: 256gb","apple iphone 16 pro max 256gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 256gb",0
+"16 pro max 256gb (desert) | color: desert, ram: <na>, rom: 256gb","apple iphone 16 pro max 256gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 256gb",0
+"16 pro max 256gb (natural) | color: natural, ram: <na>, rom: 256gb","apple iphone 16 pro max 256gb белый (white titanium) nano sim + esim | color: white titanium, ram: 8, rom: 256gb",0
+"16 pro max 256gb (white) | color: white, ram: <na>, rom: 256gb","xiaomi 14 pro 12/256gb белый (white) | color: white, ram: 12, rom: 256gb",0
+"16 pro max 256gb (white) | color: white, ram: <na>, rom: 256gb","apple iphone 16 pro max 256gb белый (white titanium) nano sim + esim | color: white titanium, ram: 8, rom: 256gb",1
+"16 pro max 256gb (white) | color: white, ram: <na>, rom: 256gb","apple iphone 16 pro max 256gb белый (white titanium) esim | color: white titanium, ram: 8, rom: 256gb",0
+"a05 4/64gb (black) | color: black, ram: 4, rom: 64gb","samsung galaxy a04s 4/64gb черный (black) | color: black, ram: 4, rom: 64gb",0
+"a05 4/64gb (black) | color: black, ram: 4, rom: 64gb","samsung galaxy a05 4/64gb черный (black) | color: black, ram: 4, rom: 64gb",1
+"a06 4/64gb (light blue) | color: light blue, ram: 4, rom: 64gb","samsung galaxy a06 4/64gb голубой (light blue) | color: light blue, ram: 4, rom: 64gb",1
+"a14 sm-a145f/ds 4/64gb (black) | color: black, ram: 4, rom: 64gb","samsung galaxy a14 4/64gb черный (black) | color: black, ram: 4, rom: 64gb",1
+"a14 sm-a145f/ds 4/64gb (black) | color: black, ram: 4, rom: 64gb","samsung galaxy a14 4/64gb зеленый (light green) | color: light green, ram: 4, rom: 64gb",0
+"a14 sm-a145p/ds 4/64gb (light green) | color: light green, ram: 4, rom: 64gb","samsung galaxy a14 4/64gb зеленый (light green) | color: light green, ram: 4, rom: 64gb",1
+"a16 4/128gb (black) | color: black, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",1
+"a16 4/128gb (green) | color: green, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb зелёный (light green) | color: light green, ram: 4, rom: 128gb",1
+"a16 4/128gb (green) | color: green, ram: 4, rom: 128gb","samsung galaxy a22 4/128gb мятный eac | color: green, ram: 4, rom: 128gb",0
+"a16 4/128gb (green) | color: green, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb серый (light grey) | color: light grey, ram: 4, rom: 128gb",0
+"a16 4/128gb (grey) | color: grey, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb серый (light grey) | color: light grey, ram: 4, rom: 128gb",1
+"a16 5g sm-a166e/ds 4/128gb (blue black) | color: blue black, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb серый (light grey) | color: light grey, ram: 4, rom: 128gb",0
+"a16 5g sm-a166e/ds 4/128gb (light gray) | color: light gray, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb серый (light grey) | color: light grey, ram: 4, rom: 128gb",1
+"a16 5g sm-a166e/ds 4/128gb (light green) | color: light green, ram: 4, rom: 128gb","samsung galaxy a14 4/128gb зеленый (light green) | color: light green, ram: 4, rom: 128gb",0
+"a16 5g sm-a166e/ds 4/128gb (light green) | color: light green, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb зелёный (light green) | color: light green, ram: 4, rom: 128gb",1
+"a16 5g sm-a166e/ds 4/128gb (light green) | color: light green, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb серый (light grey) | color: light grey, ram: 4, rom: 128gb",0
+"a16 8/256gb (black) | color: black, ram: 8, rom: 256gb","huawei p60 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",0
+"a16 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy a16 8/256gb черный (blue black) | color: blue black, ram: 8, rom: 256gb",1
+"a16 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy a16 8/256gb серый (light grey) | color: light grey, ram: 8, rom: 256gb",0
+"a16 8/256gb (green) | color: green, ram: 8, rom: 256gb","google pixel 6 8/256gb зеленый | color: green, ram: 8, rom: 256gb",0
+"a16 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy a16 8/256gb зелёный (light green) | color: light green, ram: 8, rom: 256gb",1
+"a16 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy a16 8/256gb серый (light grey) | color: light grey, ram: 8, rom: 256gb",0
+"a16 8/256gb (grey) | color: grey, ram: 8, rom: 256gb","poco x6 pro 8/256gb серый (grey) | color: grey, ram: 8, rom: 256gb",0
+"a16 8/256gb (grey) | color: grey, ram: 8, rom: 256gb","samsung galaxy a16 8/256gb серый (light grey) | color: light grey, ram: 8, rom: 256gb",1
+"a16 sm-a165f/ds 4/128gb (black) | color: black, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",1
+"a16 sm-a165f/ds 4/128gb (gray) | color: gray, ram: 4, rom: 128gb","xiaomi redmi note 9 4/128gb (nfc) серый | color: gray, ram: 4, rom: 128gb",0
+"a16 sm-a165f/ds 4/128gb (gray) | color: gray, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb серый (light grey) | color: light grey, ram: 4, rom: 128gb",1
+"a16 sm-a165f/ds 4/128gb (gray) | color: gray, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",0
+"a16 sm-a165f/ds 4/128gb (light green) | color: light green, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb зелёный (light green) | color: light green, ram: 4, rom: 128gb",1
+"a16 sm-a165f/ds 4/128gb (light green) | color: light green, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",0
+"a25 5g 6/128gb (blue black) | color: blue black, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb темно-синий (dark blue) | color: dark blue, ram: 6, rom: 128gb",1
+"a25 5g 6/128gb (blue black) | color: blue black, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb синий (blue) | color: blue, ram: 6, rom: 128gb",0
+"a25 5g sm-a256e/dsn 6/128gb (blue black) | color: blue black, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb темно-синий (dark blue) | color: dark blue, ram: 6, rom: 128gb",1
+"a25 5g sm-a256e/dsn 6/128gb (light blue) | color: light blue, ram: 6, rom: 128gb","samsung galaxy a15 5g 6/128gb голубой (light blue) | color: light blue, ram: 6, rom: 128gb",0
+"a25 5g sm-a256e/dsn 6/128gb (light blue) | color: light blue, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb голубой (light blue) | color: light blue, ram: 6, rom: 128gb",1
+"a25 5g sm-a256e/dsn 6/128gb (light blue) | color: light blue, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb темно-синий (dark blue) | color: dark blue, ram: 6, rom: 128gb",0
+"a25 5g sm-a256e/dsn 6/128gb (yellow) | color: yellow, ram: 6, rom: 128gb","samsung galaxy a15 5g 6/128gb желтый (yellow) | color: yellow, ram: 6, rom: 128gb",0
+"a25 5g sm-a256e/dsn 6/128gb (yellow) | color: yellow, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb желтый (yellow) | color: yellow, ram: 6, rom: 128gb",1
+"a25 5g sm-a256e/dsn 6/128gb (yellow) | color: yellow, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb темно-синий (dark blue) | color: dark blue, ram: 6, rom: 128gb",0
+"a35 5g sm-a356e/ds 8/128gb (ice blue) | color: ice blue, ram: 8, rom: 128gb","samsung galaxy a35 8/128gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 128gb",1
+"a35 5g sm-a356e/ds 8/128gb (ice blue) | color: ice blue, ram: 8, rom: 128gb","xiaomi redmi note 12 4g 8/128gb синий (ice blue) | color: ice blue, ram: 8, rom: 128gb",0
+"a35 5g sm-a356e/ds 8/128gb (ice blue) | color: ice blue, ram: 8, rom: 128gb","samsung galaxy a35 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a35 5g sm-a356e/ds 8/128gb (lemon) | color: lemon, ram: 8, rom: 128gb","samsung galaxy a35 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a35 5g sm-a356e/ds 8/128gb (lilac) | color: lilac, ram: 8, rom: 128gb","samsung galaxy a35 8/256gb лаванда (awesome lilac) | color: awesome lilac, ram: 8, rom: 256gb",0
+"a35 5g sm-a356e/ds 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy a35 8/128gb черный (awesome navy) | color: awesome navy, ram: 8, rom: 128gb",1
+"a35 5g sm-a356e/ds 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy a35 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a35 5g sm-a356e/ds 8/256gb (ice blue) | color: ice blue, ram: 8, rom: 256gb","samsung galaxy a35 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",1
+"a35 5g sm-a356e/ds 8/256gb (ice blue) | color: ice blue, ram: 8, rom: 256gb","xiaomi redmi note 13 pro 5g 8/256gb синий (ice blue) | color: ice blue, ram: 8, rom: 256gb",0
+"a35 5g sm-a356e/ds 8/256gb (lemon) | color: lemon, ram: 8, rom: 256gb","samsung galaxy a35 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a35 5g sm-a356e/ds 8/256gb (lilac) | color: lilac, ram: 8, rom: 256gb","samsung galaxy a35 8/256gb лаванда (awesome lilac) | color: awesome lilac, ram: 8, rom: 256gb",1
+"a35 5g sm-a356e/ds 8/256gb (navy) | color: navy, ram: 8, rom: 256gb","samsung galaxy a35 8/256gb черный (awesome navy) | color: awesome navy, ram: 8, rom: 256gb",1
+"a35 5g sm-a356e/ds 8/256gb (navy) | color: navy, ram: 8, rom: 256gb","samsung galaxy a35 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a35 5g sm-a356elv/ds 8/256gb (lilac) | color: lilac, ram: 8, rom: 256gb","samsung galaxy a35 8/256gb лаванда (awesome lilac) | color: awesome lilac, ram: 8, rom: 256gb",1
+"a35 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy a35 8/128gb черный (awesome navy) | color: awesome navy, ram: 8, rom: 128gb",1
+"a35 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy a35 8/256gb черный (awesome navy) | color: awesome navy, ram: 8, rom: 256gb",0
+"a55 5g sm-a556e/ds 12/256gb (iceblue) | color: iceblue, ram: 12, rom: 256gb","samsung galaxy a55 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a55 5g sm-a556e/ds 12/256gb (lilac) | color: lilac, ram: 12, rom: 256gb","samsung galaxy a55 12/256gb фиолетовый (lilac) | color: lilac, ram: 12, rom: 256gb",1
+"a55 5g sm-a556e/ds 12/256gb (navy) | color: navy, ram: 12, rom: 256gb","samsung galaxy a55 12/256gb темно - синий (navy black) | color: navy black, ram: 12, rom: 256gb",1
+"a55 5g sm-a556e/ds 8/128gb (ice blue) | color: ice blue, ram: 8, rom: 128gb","samsung galaxy a55 8/128gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 128gb",1
+"a55 5g sm-a556e/ds 8/128gb (ice blue) | color: ice blue, ram: 8, rom: 128gb","samsung galaxy a55 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a55 5g sm-a556e/ds 8/128gb (lemon) | color: lemon, ram: 8, rom: 128gb","samsung galaxy a55 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a55 5g sm-a556e/ds 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy a55 8/128gb тёмно-синий (awesome navy) | color: awesome navy, ram: 8, rom: 128gb",1
+"a55 5g sm-a556e/ds 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy a55 12/256gb темно - синий (navy black) | color: navy black, ram: 12, rom: 256gb",0
+"a55 5g sm-a556e/ds 8/256gb (navy) | color: navy, ram: 8, rom: 256gb","samsung galaxy a55 8/256gb тёмно-синий (awesome navy) | color: awesome navy, ram: 8, rom: 256gb",1
+"a55 5g sm-a556e/ds 8/256gb (navy) | color: navy, ram: 8, rom: 256gb","samsung galaxy a55 8/256gb голубой (awesome iceblue) | color: awesome iceblue, ram: 8, rom: 256gb",0
+"a55 8/128gb (lemon) | color: lemon, ram: 8, rom: 128gb","samsung galaxy a55 12/256gb желтый (lemon) | color: lemon, ram: 12, rom: 256gb",0
+"a55 8/128gb (lilac) | color: lilac, ram: 8, rom: 128gb","samsung galaxy a55 12/256gb фиолетовый (lilac) | color: lilac, ram: 12, rom: 256gb",0
+"a55 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy a55 8/128gb тёмно-синий (awesome navy) | color: awesome navy, ram: 8, rom: 128gb",1
+"a55 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy a55 8/256gb тёмно-синий (awesome navy) | color: awesome navy, ram: 8, rom: 256gb",0
+"a55 8/256gb (navy) | color: navy, ram: 8, rom: 256gb","samsung galaxy a55 8/256gb тёмно-синий (awesome navy) | color: awesome navy, ram: 8, rom: 256gb",1
+"a55 8/256gb (navy) | color: navy, ram: 8, rom: 256gb","samsung galaxy a55 8/256gb желтый (awesome lemon) | color: awesome lemon, ram: 8, rom: 256gb",0
+"air 11 m2 wi-fi 2/128gb (purple) | color: purple, ram: 2, rom: 128gb","apple ipad air 11 (2024) 128gb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 128gb",0
+"air 11 m2 wi-fi 2/128gb (starlight) | color: starlight, ram: 2, rom: 128gb","apple ipad air 11 (2024) 128gb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 128gb",0
+"air 11 m2 wi-fi 256gb (gray) | color: gray, ram: <na>, rom: 256gb","google pixel tablet 8/256gb wi fi серый ce | color: gray, ram: 8, rom: 256gb",0
+"air 11 m2 wi-fi 256gb (gray) | color: gray, ram: <na>, rom: 256gb","samsung galaxy tab s9 fe wi-fi 8/256gb серый eu | color: gray, ram: 8, rom: 256gb",0
+"air 11 m2 wi-fi 256gb (gray) | color: gray, ram: <na>, rom: 256gb","apple ipad air 11 (2024) 128gb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 128gb",0
+"air 13 mc7x4 (midnight) | color: midnight, ram: <na>, rom: none","apple ipad air 13 (2024) 512gb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 512gb",0
+"air 13 mc8k4 (midnight) | color: midnight, ram: <na>, rom: none","apple ipad air 13 (2024) 1tb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 1024gb",0
+"air 5 wi-fi 64gb (blue) | color: blue, ram: <na>, rom: 64gb","apple ipad air (2022) 64gb wi-fi + cellular blue | color: blue, ram: nan, rom: 64gb",1
+"air 5 wi-fi 64gb (blue) | color: blue, ram: <na>, rom: 64gb","apple ipad air (2022) 64gb wi-fi blue | color: blue, ram: nan, rom: 64gb",1
+"air 5 wi-fi 64gb (blue) | color: blue, ram: <na>, rom: 64gb","apple ipad air (2022) 64gb wi-fi space gray | color: space gray, ram: nan, rom: 64gb",0
+"air 5 wi-fi 64gb (gray) | color: gray, ram: <na>, rom: 64gb","apple ipad air (2022) 64gb wi-fi space gray | color: space gray, ram: nan, rom: 64gb",1
+"google pixel 7 pro us 128gb (hazel) | color: hazel, ram: <na>, rom: 128gb","google pixel 7 pro 12/128gb зеленый (grey/green) | color: grey/green, ram: 12, rom: 128gb",1
+"google pixel 7 pro us 128gb (hazel) | color: hazel, ram: <na>, rom: 128gb","google pixel 9 pro 16/128gb серый (hazel) | color: hazel, ram: 16, rom: 128gb",0
+"google pixel 7 pro us 128gb (hazel) | color: hazel, ram: <na>, rom: 128gb","google pixel 7 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"google pixel 7 pro us 128gb (obsidian) | color: obsidian, ram: <na>, rom: 128gb","google pixel 7 pro 12/128gb черный (stormy black) | color: stormy black, ram: 12, rom: 128gb",1
+"google pixel 7 pro us 128gb (obsidian) | color: obsidian, ram: <na>, rom: 128gb","google pixel 9 12/128gb черный (obsidian) | color: obsidian, ram: 12, rom: 128gb",0
+"google pixel 7 pro us 128gb (obsidian) | color: obsidian, ram: <na>, rom: 128gb","google pixel 7 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"google pixel 7 pro us 128gb (snow) | color: snow, ram: <na>, rom: 128gb","google pixel 7 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"google pixel 7 pro us 256gb (obsidian) | color: obsidian, ram: <na>, rom: 256gb","google pixel 9 pro xl 16/256gb черный (obsidian) | color: obsidian, ram: 16, rom: 256gb",0
+"google pixel 7 pro us 256gb (obsidian) | color: obsidian, ram: <na>, rom: 256gb","google pixel 7 pro 12/256gb черный (stormy black) | color: stormy black, ram: 12, rom: 256gb",1
+"google pixel 7 pro us 256gb (obsidian) | color: obsidian, ram: <na>, rom: 256gb","google pixel 7 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"google pixel 7 pro us 256gb (snow) | color: snow, ram: <na>, rom: 256gb","google pixel 7 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"google pixel 7a 128gb (sea) | color: sea, ram: <na>, rom: 128gb","google pixel 7a 8/128gb синий (blue) | color: blue, ram: 8, rom: 128gb",1
+"google pixel 9 12/256gb (obsidian) | color: obsidian, ram: 12, rom: 256gb","google pixel 9 12/256gb черный (obsidian) | color: obsidian, ram: 12, rom: 256gb",1
+"google pixel 9 12/256gb (peony) | color: peony, ram: 12, rom: 256gb","google pixel 9 12/256gb розовый (peony) | color: peony, ram: 12, rom: 256gb",1
+"google pixel 9 12/256gb (porcelain) | color: porcelain, ram: 12, rom: 256gb","google pixel 9 12/256gb бежевый (porcelain) | color: porcelain, ram: 12, rom: 256gb",1
+"google pixel 9 pro 16/128gb (obsidian) | color: obsidian, ram: 16, rom: 128gb","google pixel 9 pro 16/128gb черный (obsidian) | color: obsidian, ram: 16, rom: 128gb",1
+"google pixel 9 pro 16/128gb (porcelain) | color: porcelain, ram: 16, rom: 128gb","google pixel 9 pro 16/128gb бежевый (porcelain) | color: porcelain, ram: 16, rom: 128gb",1
+"google pixel 9 pro 16/128gb (porcelain) | color: porcelain, ram: 16, rom: 128gb","google pixel 9 pro 16/128gb серый (hazel) | color: hazel, ram: 16, rom: 128gb",0
+"google pixel 9 pro 16/256gb (hazel) | color: hazel, ram: 16, rom: 256gb","google pixel 9 pro 16/256gb серый (hazel) | color: hazel, ram: 16, rom: 256gb",1
+"google pixel 9 pro xl obsiddian 128gb | color: none, ram: <na>, rom: 128gb","google pixel 8 pro 12/128gb черный (black) | color: black, ram: 12, rom: 128gb",0
+"google pixel 9 pro xl obsiddian 128gb | color: none, ram: <na>, rom: 128gb","google pixel 9 pro xl 16/128gb черный (obsidian) | color: obsidian, ram: 16, rom: 128gb",1
+"google pixel 9 pro xl obsiddian 128gb | color: none, ram: <na>, rom: 128gb","google pixel 9 pro xl 16/128gb серый (hazel) | color: hazel, ram: 16, rom: 128gb",0
+"honor 200 8/256gb (green) | color: green, ram: 8, rom: 256gb","honor 200 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",1
+"honor 200 8/256gb (green) | color: green, ram: 8, rom: 256gb","honor 200 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",0
+"honor 200 8/256gb (white) | color: white, ram: 8, rom: 256gb","honor 200 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",1
+"honor 200 lite 8/256gb (black) | color: black, ram: 8, rom: 256gb","honor 200 lite 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",1
+"honor 200 lite 8/256gb (black) | color: black, ram: 8, rom: 256gb","honor 200 lite 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"honor 200 lite 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","honor 200 lite 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",1
+"honor 200 lite 8/256gb (green) | color: green, ram: 8, rom: 256gb","honor 200 lite 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",1
+"honor 200 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","honor 200 pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",1
+"honor x6a голубой 6/128gb | color: none, ram: 6, rom: 128gb","honor x6a 4/128gb голубой (ocean blue) | color: ocean blue, ram: 4, rom: 128gb",1
+"honor x6a черный 6/128gb | color: none, ram: 6, rom: 128gb","honor x6a 4/128gb черный (midnight black) | color: midnight black, ram: 4, rom: 128gb",1
+"honor x6a черный 6/128gb | color: none, ram: 6, rom: 128gb","honor x6a 4/128gb голубой (ocean blue) | color: ocean blue, ram: 4, rom: 128gb",0
+"honor x6b 4/128gb (black) | color: black, ram: 4, rom: 128gb","honor x6a 4/128gb черный (midnight black) | color: midnight black, ram: 4, rom: 128gb",0
+"honor x6b 4/128gb (green) | color: green, ram: 4, rom: 128gb","honor x6a 4/128gb черный (midnight black) | color: midnight black, ram: 4, rom: 128gb",0
+"honor x6b 6/256gb (green) | color: green, ram: 6, rom: 256gb","honor x6a 4/128gb черный (midnight black) | color: midnight black, ram: 4, rom: 128gb",0
+"honor x7c 6/128gb (black) | color: black, ram: 6, rom: 128gb","honor x7b 8/128gb черный (midnight black) | color: midnight black, ram: 8, rom: 128gb",0
+"honor x9b 5g 8/256gb (green) | color: green, ram: 8, rom: 256gb","honor magic 6 lite 5g 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",0
+"honor x9b 5g 8/256gb (green) | color: green, ram: 8, rom: 256gb","honor x9b 8/256gb зеленый (emerald green) eac | color: emerald green, ram: 8, rom: 256gb",1
+"huawei pura 70 ultra hbp-lx9 16/512gb (black) | color: black, ram: 16, rom: 512gb","huawei mate 70 pro+ 16/512gb черный (black) | color: black, ram: 16, rom: 512gb",0
+"huawei pura 70 ultra hbp-lx9 16/512gb (black) | color: black, ram: 16, rom: 512gb","huawei mate 70 rs ultimate 16/512gb черный (black) | color: black, ram: 16, rom: 512gb",0
+"huawei pura 70 ultra hbp-lx9 16/512gb (black) | color: black, ram: 16, rom: 512gb","huawei pura 70 ultra 16/512gb черный (black) | color: black, ram: nan, rom: 512gb",1
+"huawei pura 70 ultra hbp-lx9 16/512gb (black) | color: black, ram: 16, rom: 512gb","huawei pura 70 ultra 16/1tb черный (black) | color: black, ram: nan, rom: 1024gb",0
+"huawei pura 70 ultra hbp-lx9 16/512gb (green) | color: green, ram: 16, rom: 512gb","huawei pura 70 ultra 16/512gb зелёный (green) | color: green, ram: nan, rom: 512gb",1
+"huawei pura 70 ultra hbp-lx9 16/512gb (green) | color: green, ram: 16, rom: 512gb","huawei pura 70 ultra 16/1tb черный (black) | color: black, ram: nan, rom: 1024gb",0
+"infinix hot 50 6/256gb (black) | color: black, ram: 6, rom: 256gb","infinix hot 50 6/256gb черный (sleek black) eac | color: sleek black, ram: 6, rom: 256gb",1
+"infinix hot 50 6/256gb (gray) | color: gray, ram: 6, rom: 256gb","infinix hot 50 6/256gb зеленый (sage green) eac | color: sage green, ram: 6, rom: 256gb",0
+"infinix hot 50 6/256gb (green) | color: green, ram: 6, rom: 256gb","infinix hot 50 6/256gb зеленый (sage green) eac | color: sage green, ram: 6, rom: 256gb",1
+"infinix hot 50 8/256gb (black) | color: black, ram: 8, rom: 256gb","infinix hot 50 8/256gb черный (sleek black) eac | color: sleek black, ram: 8, rom: 256gb",1
+"infinix hot 50 8/256gb (black) | color: black, ram: 8, rom: 256gb","infinix hot 40 pro 8/256gb черный eac | color: black, ram: 8, rom: 256gb",0
+"infinix hot 50 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","infinix hot 50 8/256gb черный (sleek black) eac | color: sleek black, ram: 8, rom: 256gb",1
+"infinix hot 50 8/256gb (green) | color: green, ram: 8, rom: 256gb","infinix hot 50 8/256gb зеленый (sage green) eac | color: sage green, ram: 8, rom: 256gb",1
+"infinix hot 50 pro + 256gb (grey) | color: grey, ram: <na>, rom: 256gb","infinix hot 50 pro+ 8/256gb черный (sleek black) | color: sleek black, ram: 8, rom: 256gb",1
+"infinix hot 50 pro 8/128gb (black) | color: black, ram: 8, rom: 128gb","infinix hot 50 pro 8/128gb черный (sleek black) eac | color: sleek black, ram: 8, rom: 128gb",1
+"infinix hot 50 pro 8/128gb (black) | color: black, ram: 8, rom: 128gb","infinix hot 30 8/128gb черный (black) eac | color: black, ram: 8, rom: 128gb",0
+"infinix hot 50 pro 8/128gb (blue) | color: blue, ram: 8, rom: 128gb","infinix hot 50 pro 8/128gb черный (sleek black) eac | color: sleek black, ram: 8, rom: 128gb",1
+"infinix hot 50 pro 8/128gb (blue) | color: blue, ram: 8, rom: 128gb","infinix hot 50 pro 8/128gb серый (titanium grey) eac | color: titanium grey, ram: 8, rom: 128gb",0
+"infinix hot 50 pro 8/128gb (grey) | color: grey, ram: 8, rom: 128gb","infinix hot 50 pro 8/128gb серый (titanium grey) eac | color: titanium grey, ram: 8, rom: 128gb",0
+"infinix hot 50i 4/128gb (black) | color: black, ram: 4, rom: 128gb","infinix hot 50i 4/128gb черный (sleek black) eac | color: sleek black, ram: 4, rom: 128gb",1
+"infinix hot 50i 4/128gb (black) | color: black, ram: 4, rom: 128gb","infinix hot 50i 4/128gb серый (titanium grey) eac | color: titanium grey, ram: 4, rom: 128gb",0
+"infinix hot 50i 4/128gb (gray) | color: gray, ram: 4, rom: 128gb","infinix hot 50i 4/128gb серый (titanium grey) eac | color: titanium grey, ram: 4, rom: 128gb",1
+"infinix hot 50i 4/128gb (green) | color: green, ram: 4, rom: 128gb","infinix hot 30 4/128gb зеленый (green) eac | color: green, ram: 4, rom: 128gb",0
+"infinix hot 50i 4/128gb (green) | color: green, ram: 4, rom: 128gb","infinix hot 50i 4/128gb зеленый (sage green) eac | color: sage green, ram: 4, rom: 128gb",1
+"infinix hot 50i 4/256gb (black) | color: black, ram: 4, rom: 256gb","infinix hot 50i 4/256gb серый (titanium grey) eac | color: titanium grey, ram: 4, rom: 256gb",0
+"infinix hot 50i 4/256gb (gray) | color: gray, ram: 4, rom: 256gb","infinix hot 50i 4/256gb серый (titanium grey) eac | color: titanium grey, ram: 4, rom: 256gb",1
+"infinix hot 50i 4/256gb (green) | color: green, ram: 4, rom: 256gb","infinix hot 50i 4/256gb зеленый (sage green) eac | color: sage green, ram: 4, rom: 256gb",1
+"infinix hot 50i 4/256gb (purple) | color: purple, ram: 4, rom: 256gb","infinix hot 50i 4/256gb серый (titanium grey) eac | color: titanium grey, ram: 4, rom: 256gb",0
+"infinix hot 50i 6/128gb (black) | color: black, ram: 6, rom: 128gb","infinix hot 50i 6/128gb серый (titanium grey) eac | color: titanium grey, ram: 6, rom: 128gb",0
+"infinix hot 50i 6/128gb (green) | color: green, ram: 6, rom: 128gb","infinix hot 50i 6/128gb зеленый (sage green) eac | color: sage green, ram: 6, rom: 128gb",1
+"infinix hot 50i 6/128gb (grey) | color: grey, ram: 6, rom: 128gb","infinix hot 50i 6/128gb серый (titanium grey) eac | color: titanium grey, ram: 6, rom: 128gb",1
+"infinix hot 50i 6/128gb (purple) | color: purple, ram: 6, rom: 128gb","infinix hot 50i 6/128gb серый (titanium grey) eac | color: titanium grey, ram: 6, rom: 128gb",0
+"infinix note 30i 8/128gb (black) | color: black, ram: 8, rom: 128gb","infinix note 30i 8/128gb черный (black) eac | color: black, ram: 8, rom: 128gb",1
+"infinix note 40 pro 12/256gb (black) | color: black, ram: 12, rom: 256gb","infinix note 40 pro 12/256gb черный | color: black, ram: 12, rom: 256gb",1
+"infinix note 40 pro 12/256gb (gray) | color: gray, ram: 12, rom: 256gb","infinix note 40 pro 12/256gb серый | color: gray, ram: 12, rom: 256gb",1
+"infinix smart 9 3/128gb (gold) | color: gold, ram: 3, rom: 128gb","infinix smart 9 4/128gb черный (metallic black) | color: metallic black, ram: 4, rom: 128gb",0
+"infinix smart 9 3/128gb (green) | color: green, ram: 3, rom: 128gb","infinix smart 9 4/128gb черный (metallic black) | color: metallic black, ram: 4, rom: 128gb",0
+"infinix zero 40 8/256gb (aqua) | color: aqua, ram: 8, rom: 256gb","infinix zero 40 8/256gb розовый (blossom glow) eac | color: blossom glow, ram: 8, rom: 256gb",0
+"infinix zero 40 8/256gb (black) | color: black, ram: 8, rom: 256gb","infinix zero 40 8/256gb черный (rock black) eac | color: rock black, ram: 8, rom: 256gb",1
+"infinix zero 40 8/256gb (black) | color: black, ram: 8, rom: 256gb","infinix hot 40 pro 8/256gb черный eac | color: black, ram: 8, rom: 256gb",0
+"infinix zero 40 8/256gb (black) | color: black, ram: 8, rom: 256gb","infinix zero 40 8/256gb розовый (blossom glow) eac | color: blossom glow, ram: 8, rom: 256gb",0
+"infinix zero 40 8/256gb (glow) | color: glow, ram: 8, rom: 256gb","infinix zero 40 8/256gb розовый (blossom glow) eac | color: blossom glow, ram: 8, rom: 256gb",1
+"inoi a72 4g 4/128gb (gray) | color: gray, ram: 4, rom: 128gb","xiaomi redmi note 9 4/128gb (nfc) серый | color: gray, ram: 4, rom: 128gb",0
+"inoi a72 4g 4/128gb (gray) | color: gray, ram: 4, rom: 128gb","xiaomi redmi pad se 4g 8.7 4/128gb серый (gray) | color: gray, ram: 4, rom: 128gb",0
+"inoi a72 4g 4/128gb (gray) | color: gray, ram: 4, rom: 128gb","honor x7a 4/128gb синий (ocean blue) | color: ocean blue, ram: 4, rom: 128gb",0
+"inoi a72 4g 4/128gb (purple) | color: purple, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb фиолетовый (purple) | color: purple, ram: 4, rom: 128gb",0
+"inoi a72 4g 4/128gb (purple) | color: purple, ram: 4, rom: 128gb","honor x7a 4/128gb синий (ocean blue) | color: ocean blue, ram: 4, rom: 128gb",0
+"ipad 10 wi-fi 256gb (blue) | color: blue, ram: <na>, rom: 256gb","apple ipad air (2022) 256gb wi-fi + cellular blue | color: blue, ram: nan, rom: 256gb",0
+"ipad 10 wi-fi 256gb (blue) | color: blue, ram: <na>, rom: 256gb","apple ipad air (2022) 256gb wi-fi blue | color: blue, ram: nan, rom: 256gb",1
+"ipad 10 wi-fi 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple ipad air (2022) 256gb wi-fi + cellular pink | color: pink, ram: nan, rom: 256gb",0
+"ipad 10 wi-fi 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple ipad air (2022) 256gb wi-fi pink | color: pink, ram: nan, rom: 256gb",1
+"ipad 10 wi-fi 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple ipad 2022 wi-fi 10.9 256gb голубой | color: light blue, ram: nan, rom: 256gb",0
+"ipad 10 wi-fi 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad 2022 wi-fi 10.9 256gb серебристый | color: silver, ram: nan, rom: 256gb",1
+"mi 12 lite 8/128gb (pink) | color: pink, ram: 8, rom: 128gb","xiaomi 13 lite 8/128gb розовый (pink) | color: pink, ram: 8, rom: 128gb",0
+"mi 12 lite 8/128gb (pink) | color: pink, ram: 8, rom: 128gb","xiaomi 12 lite 8/128gb 5g розовый (pink) | color: pink, ram: 8, rom: 128gb",1
+"mi 12 lite 8/128gb (pink) | color: pink, ram: 8, rom: 128gb","xiaomi 12 lite 6/128gb 5g розовый (pink) | color: pink, ram: 6, rom: 128gb",0
+"mi 13t 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","xiaomi 13t 12/256gb синий (alpine blue) | color: alpine blue, ram: 12, rom: 256gb",1
+"mi 13t 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","xiaomi 13 12/256gb синий (blue) cn | color: blue, ram: 12, rom: 256gb",0
+"mi 13t 12/256gb (green) | color: green, ram: 12, rom: 256gb","realme 13 pro+ 12/256gb зеленый (green) | color: green, ram: 12, rom: 256gb",0
+"mi 13t 12/256gb (green) | color: green, ram: 12, rom: 256gb","xiaomi 13 12/256gb зеленый (green) cn | color: green, ram: 12, rom: 256gb",0
+"mi 13t 12/256gb (green) | color: green, ram: 12, rom: 256gb","xiaomi 13t 12/256gb зеленый (meadow green) | color: meadow green, ram: 12, rom: 256gb",1
+"mi 13t pro 12/256gb (black) | color: black, ram: 12, rom: 256gb","honor 300 pro 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",0
+"mi 13t pro 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi 13 12/256gb черный (black) cn | color: black, ram: 12, rom: 256gb",0
+"mi 13t pro 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi 13t pro 12/512gb синий (alpine blue) | color: alpine blue, ram: 12, rom: 512gb",0
+"mi 13t pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","honor 300 pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"mi 13t pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi 13 12/512gb черный (black) cn | color: black, ram: 12, rom: 512gb",0
+"mi 13t pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi 13t pro 12/512gb черный (midnight black) | color: midnight black, ram: 12, rom: 512gb",1
+"mi 13t pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi 13t pro 12/512gb синий (alpine blue) | color: alpine blue, ram: 12, rom: 512gb",0
+"mi 13t pro 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","xiaomi 13t pro 12/512gb синий (alpine blue) | color: alpine blue, ram: 12, rom: 512gb",1
+"mi 13t pro 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","xiaomi 13 12/512gb синий (blue) cn | color: blue, ram: 12, rom: 512gb",0
+"mi 13t pro 12/512gb (green) | color: green, ram: 12, rom: 512gb","realme 13 pro+ 12/512gb зеленый (green) | color: green, ram: 12, rom: 512gb",0
+"mi 13t pro 12/512gb (green) | color: green, ram: 12, rom: 512gb","xiaomi 13 12/512gb зеленый (green) cn | color: green, ram: 12, rom: 512gb",0
+"mi 13t pro 12/512gb (green) | color: green, ram: 12, rom: 512gb","xiaomi 13t pro 12/512gb зеленый (meadow green) | color: meadow green, ram: 12, rom: 512gb",1
+"mi 13t pro 12/512gb (green) | color: green, ram: 12, rom: 512gb","xiaomi 13t pro 12/512gb синий (alpine blue) | color: alpine blue, ram: 12, rom: 512gb",0
+"mi 13t pro 16/1024gb (black) | color: black, ram: 16, rom: 1024gb","huawei mate 70 pro+ 16/1024gb черный (black) | color: black, ram: 16, rom: 1024gb",0
+"mi 13t pro 16/1024gb (black) | color: black, ram: 16, rom: 1024gb","xiaomi 14 pro 16/1tb черный (black) | color: black, ram: 16, rom: 1024gb",0
+"mi 13t pro 16/1024gb (black) | color: black, ram: 16, rom: 1024gb","xiaomi 13t pro 12/256gb зеленый (meadow green) | color: meadow green, ram: 12, rom: 256gb",0
+"mi 13t pro 16/1024gb (blue) | color: blue, ram: 16, rom: 1024gb","honor magic 7 pro 16/1024gb синий (blue) | color: blue, ram: 16, rom: 1024gb",0
+"mi 13t pro 16/1024gb (blue) | color: blue, ram: 16, rom: 1024gb","xiaomi 13t pro 12/256gb зеленый (meadow green) | color: meadow green, ram: 12, rom: 256gb",0
+"mi 13t pro 16/1024gb (green) | color: green, ram: 16, rom: 1024gb","huawei mate 70 pro+ 16/1024gb зеленый (green) | color: green, ram: 16, rom: 1024gb",0
+"mi 13t pro 16/1024gb (green) | color: green, ram: 16, rom: 1024gb","xiaomi 15 pro 16/1tb зеленый (green) | color: green, ram: 16, rom: 1024gb",0
+"mi 13t pro 16/1024gb (green) | color: green, ram: 16, rom: 1024gb","xiaomi 13t pro 12/256gb зеленый (meadow green) | color: meadow green, ram: 12, rom: 256gb",0
+"mi 14t 5g 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi mi mix 4 12/256gb черный | color: black, ram: 12, rom: 256gb",0
+"mi 14t 5g 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi 14t pro 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",0
+"mi 14t 5g 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi 14t 12/256gb черный (titan black) | color: titan black, ram: 12, rom: 256gb",1
+"mi 14t 5g 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","honor magic 7 pro 12/256gb голубой (blue) | color: blue, ram: 12, rom: 256gb",0
+"mi 14t 5g 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","xiaomi 12t pro 12/256gb голубой (blue) | color: blue, ram: 12, rom: 256gb",0
+"mi 14t 5g 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","xiaomi 14t 12/256gb синий (titan blue) | color: titan blue, ram: 12, rom: 256gb",1
+"mi 14t 5g 12/256gb (green) | color: green, ram: 12, rom: 256gb","xiaomi redmi note 14 pro 12/256gb зеленый (green) | color: green, ram: 12, rom: 256gb",0
+"mi 14t 5g 12/256gb (green) | color: green, ram: 12, rom: 256gb","xiaomi 14t 12/256gb зелёный (lemon green) | color: lemon green, ram: 12, rom: 256gb",1
+"mi 14t 5g 12/256gb (green) | color: green, ram: 12, rom: 256gb","xiaomi 14t 12/256gb черный (titan black) | color: titan black, ram: 12, rom: 256gb",0
+"mi 14t 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi mi mix 4 12/512gb черный | color: black, ram: 12, rom: 512gb",0
+"mi 14t 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi 14t pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"mi 14t 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi 14t 12/512gb черный (titan black) | color: titan black, ram: 12, rom: 512gb",1
+"mi 14t 5g 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","xiaomi 14t 12/512gb серый (titan gray) | color: titan gray, ram: 12, rom: 512gb",1
+"mi 14t 5g 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","xiaomi mi mix 4 12/512gb серый | color: gray, ram: 12, rom: 512gb",0
+"mi 14t 5g 12/512gb (green) | color: green, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb зеленый (green) | color: green, ram: 12, rom: 512gb",0
+"mi 14t 5g 12/512gb (green) | color: green, ram: 12, rom: 512gb","xiaomi 14t 12/512gb зелёный (lemon green) | color: lemon green, ram: 12, rom: 512gb",1
+"mi 14t 5g 12/512gb (green) | color: green, ram: 12, rom: 512gb","xiaomi 14t 12/512gb черный (titan black) | color: titan black, ram: 12, rom: 512gb",0
+"mi 14t pro 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi 14t pro 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",1
+"mi 14t pro 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi 14t pro 12/256gb синий (titan blue) | color: titan blue, ram: 12, rom: 256gb",0
+"mi 14t pro 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","xiaomi 14t pro 12/256gb синий (titan blue) | color: titan blue, ram: 12, rom: 256gb",1
+"mi 14t pro 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","xiaomi 12t pro 12/256gb голубой (blue) | color: blue, ram: 12, rom: 256gb",0
+"mi 14t pro 12/256gb (grey) | color: grey, ram: 12, rom: 256gb","xiaomi 14t pro 12/256gb серый (titan gray) | color: titan gray, ram: 12, rom: 256gb",1
+"mi 14t pro 12/256gb (grey) | color: grey, ram: 12, rom: 256gb","xiaomi 14t pro 12/256gb синий (titan blue) | color: titan blue, ram: 12, rom: 256gb",0
+"mi 14t pro 5g 12/1024gb (black) | color: black, ram: 12, rom: 1024gb","xiaomi 14t pro 12/1tb черный (black) | color: black, ram: 12, rom: 1024gb",1
+"mi 14t pro 5g 12/1024gb (black) | color: black, ram: 12, rom: 1024gb","xiaomi 14t pro 12/256gb синий (titan blue) | color: titan blue, ram: 12, rom: 256gb",0
+"mi 14t pro 5g 12/1024gb (blue) | color: blue, ram: 12, rom: 1024gb","xiaomi 14t pro 12/1tb синий ( blue) | color: blue, ram: 12, rom: 1024gb",1
+"mi 14t pro 5g 12/1024gb (blue) | color: blue, ram: 12, rom: 1024gb","xiaomi 14t pro 12/256gb синий (titan blue) | color: titan blue, ram: 12, rom: 256gb",0
+"mi 14t pro 5g 12/1024gb (gray) | color: gray, ram: 12, rom: 1024gb","xiaomi 14t pro 12/1tb серый (titan gray) | color: titan gray, ram: 12, rom: 1024gb",1
+"mi 14t pro 5g 12/1024gb (gray) | color: gray, ram: 12, rom: 1024gb","xiaomi 14t pro 12/256gb серый (titan gray) | color: titan gray, ram: 12, rom: 256gb",0
+"mi 14t pro 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi 14t pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",1
+"mi 14t pro 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi 14t pro 12/512gb синий (titan blue) | color: titan blue, ram: 12, rom: 512gb",0
+"mi 14t pro 5g 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","xiaomi 14t pro 12/512gb синий (titan blue) | color: titan blue, ram: 12, rom: 512gb",1
+"mi 14t pro 5g 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","xiaomi 13 12/512gb синий (blue) cn | color: blue, ram: 12, rom: 512gb",0
+"mi 14t pro 5g 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","samsung galaxy tab s9+ sm-x810 12/512gb графит | color: gray, ram: 12, rom: 512gb",0
+"mi 14t pro 5g 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","xiaomi mi mix 4 12/512gb серый | color: gray, ram: 12, rom: 512gb",0
+"mi 14t pro 5g 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","xiaomi 14t pro 12/512gb серый (titan gray) | color: titan gray, ram: 12, rom: 512gb",1
+"mini 6 lte 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple iphone 13 mini 256gb розовый (pink) | color: pink, ram: nan, rom: 256gb",0
+"mini 6 lte 256gb (pink) | color: pink, ram: <na>, rom: 256gb","xiaomi 12 lite 8/256gb 5g розовый (pink) | color: pink, ram: 8, rom: 256gb",0
+"mini 6 lte 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple ipad mini (2021) 256gb wi-fi + cellular розовый | color: rose gold, ram: 4, rom: 256gb",1
+"mini 6 lte 256gb (pink) | color: pink, ram: <na>, rom: 256gb","apple ipad mini (2024) 256gb wi-fi серый (space gray) | color: space gray, ram: nan, rom: 256gb",0
+"mini 6 lte 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad (2021) 256gb wi-fi + cellular серебристый | color: silver, ram: nan, rom: 256gb",0
+"mini 6 lte 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad mini (2021) 256gb wi-fi + cellular серебристый | color: silver, ram: 4, rom: 256gb",1
+"mini 6 lte 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad mini (2024) 256gb wi-fi серый (space gray) | color: space gray, ram: nan, rom: 256gb",0
+"note 13 pro + 12+ 512 5g 512gb (white) | color: white, ram: <na>, rom: 512gb","huawei mate 70 pro+ 16/512gb белый (white) | color: white, ram: 16, rom: 512gb",0
+"note 13 pro + 12+ 512 5g 512gb (white) | color: white, ram: <na>, rom: 512gb","sony xperia 1 iv 5g 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"note 13 pro + 12+ 512 5g 512gb (white) | color: white, ram: <na>, rom: 512gb","xiaomi redmi note 13 pro+ 5g 12/512gb белый (moonlight white) | color: moonlight white, ram: 12, rom: 512gb",1
+"note 13 pro + 12+512 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 13 pro+ 5g 12/512gb черный (midnight black) | color: midnight black, ram: 12, rom: 512gb",1
+"note 13 pro + 12+512 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","sony xperia 1 iv 5g 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"note 13 pro + 12+512 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 13 pro+ 5g 12/512gb белый (moonlight white) | color: moonlight white, ram: 12, rom: 512gb",0
+"note 13 pro + 12+512 5g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","realme 13 pro+ 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",0
+"note 13 pro + 12+512 5g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","xiaomi redmi note 13 pro+ 5g 12/512gb фиолетовый (lavender purple) | color: lavender purple, ram: 12, rom: 512gb",1
+"note 13 pro + 12+512 5g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","xiaomi redmi note 13 pro+ 5g 12/512gb белый (moonlight white) | color: moonlight white, ram: 12, rom: 512gb",0
+"note 13 pro + 12+512 5g 12/512gb (white) | color: white, ram: 12, rom: 512gb","xiaomi redmi note 14 pro plus 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"note 13 pro + 12+512 5g 12/512gb (white) | color: white, ram: 12, rom: 512gb","sony xperia 1 iv 5g 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"note 13 pro + 12+512 5g 12/512gb (white) | color: white, ram: 12, rom: 512gb","xiaomi redmi note 13 pro+ 5g 12/512gb белый (moonlight white) | color: moonlight white, ram: 12, rom: 512gb",1
+"note 13 pro + 5g 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","xiaomi redmi note 13 pro+ 5g 8/256gb фиолетовый (lavender purple) | color: lavender purple, ram: 8, rom: 256gb",1
+"note 13 pro + 5g 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","xiaomi redmi note 12 pro 5g 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",0
+"note 13 pro + 5g 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","xiaomi redmi note 13 pro+ 5g 8/256gb белый (moonlight white) | color: moonlight white, ram: 8, rom: 256gb",0
+"note 13 pro + 8+256 5g 8/256gb (black) | color: black, ram: 8, rom: 256gb","realme 11 pro+ 8/256gb черный (black) eac | color: black, ram: 8, rom: 256gb",0
+"note 13 pro + 8+256 5g 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi note 13 pro+ 5g 8/256gb черный (midnight black) | color: midnight black, ram: 8, rom: 256gb",1
+"note 13 pro + 8+256 5g 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi note 13 pro+ 5g 8/256gb белый (moonlight white) | color: moonlight white, ram: 8, rom: 256gb",0
+"note 13 pro + 8+256 5g 8/256gb (white) | color: white, ram: 8, rom: 256gb","xiaomi redmi note 13 pro+ 5g 8/256gb белый (moonlight white) | color: moonlight white, ram: 8, rom: 256gb",1
+"note 13 pro + 8+256 5g 8/256gb (white) | color: white, ram: 8, rom: 256gb","xiaomi redmi note 12 pro 5g 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",0
+"note 13 pro 12/512gb (midnight black) | color: midnight black, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 12/512gb чёрный (midnight black) | color: midnight black, ram: 12, rom: 512gb",1
+"note 13 pro 4g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 12/512gb чёрный (midnight black) | color: midnight black, ram: 12, rom: 512gb",1
+"note 13 pro 4g 12/512gb (black) | color: black, ram: 12, rom: 512gb","sony xperia 1 iv 5g 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"note 13 pro 4g 12/512gb (green) | color: green, ram: 12, rom: 512gb","realme 13 pro+ 12/512gb зеленый (green) | color: green, ram: 12, rom: 512gb",0
+"note 13 pro 4g 12/512gb (green) | color: green, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 12/512gb зелёный (forest green) | color: forest green, ram: 12, rom: 512gb",1
+"note 13 pro 4g 12/512gb (green) | color: green, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 12/512gb чёрный (midnight black) | color: midnight black, ram: 12, rom: 512gb",0
+"note 13 pro 4g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","realme 13 pro+ 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",0
+"note 13 pro 4g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 12/512gb фиолетовый (lavender purple) | color: lavender purple, ram: 12, rom: 512gb",1
+"note 13 pro 4g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 5g 12/512gb фиолетовый (lavender purple) | color: lavender purple, ram: 12, rom: 512gb",0
+"note 13 pro 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 5g 12/512gb чёрный (midnight black) | color: midnight black, ram: 12, rom: 512gb",1
+"note 13 pro 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","sony xperia 1 iv 5g 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"note 13 pro 5g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","realme 13 pro+ 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",0
+"note 13 pro 5g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 5g 12/512gb фиолетовый (lavender purple) | color: lavender purple, ram: 12, rom: 512gb",1
+"note 13 pro 5g 12/512gb (teal) | color: teal, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 5g 12/512gb синий (ocean teal) | color: ocean teal, ram: 12, rom: 512gb",1
+"note 13 pro 5g 12+512 12/512gb (black) | color: black, ram: 12, rom: 512gb","honor 300 pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"note 13 pro 5g 12+512 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 5g 12/512gb чёрный (midnight black) | color: midnight black, ram: 12, rom: 512gb",1
+"note 13 pro 5g 12+512 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","poco m6 pro 12/512gb синий (blue) | color: blue, ram: 12, rom: 512gb",0
+"note 13 pro 5g 12+512 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 5g 12/512gb синий (ocean teal) | color: ocean teal, ram: 12, rom: 512gb",1
+"note 13 pro 5g 12+512 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","xiaomi redmi note 13 pro 5g 12/512gb чёрный (midnight black) | color: midnight black, ram: 12, rom: 512gb",0
+"note 13 pro 5g 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi note 13 pro 5g 8/256gb синий (ice blue) | color: ice blue, ram: 8, rom: 256gb",1
+"note 13 pro 5g 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi note 12 pro 5g 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"note 13 pro 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi note 13 pro 8/256gb чёрный (midnight black) | color: midnight black, ram: 8, rom: 256gb",1
+"note 13 pro 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi note 12s 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",0
+"note 13 pro 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","realme 13 pro+ 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",0
+"note 13 pro 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","xiaomi redmi note 13 pro 8/256gb фиолетовый (lavender purple) | color: lavender purple, ram: 8, rom: 256gb",1
+"note 14 4g 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi 14c 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",0
+"note 14 4g 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi note 14 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",1
+"note 14 4g 8/256gb (green) | color: green, ram: 8, rom: 256gb","xiaomi redmi 14c 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",0
+"note 14 4g 8/256gb (green) | color: green, ram: 8, rom: 256gb","xiaomi redmi note 14 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",1
+"note 14 4g 8/256gb (green) | color: green, ram: 8, rom: 256gb","xiaomi redmi note 14 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",0
+"note 14 8/128gb (ocean blue) | color: ocean blue, ram: 8, rom: 128gb","xiaomi redmi note 10s 8/128gb ocean blue | color: ocean blue, ram: 8, rom: 128gb",0
+"note 14 8/128gb (ocean blue) | color: ocean blue, ram: 8, rom: 128gb","xiaomi redmi note 14 8/128gb белый (white) | color: white, ram: 8, rom: 128gb",1
+"note 14 8/256gb (ocean blue) | color: ocean blue, ram: 8, rom: 256gb","xiaomi redmi note 14 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",1
+"note 14 green 8/128gb (lime) | color: lime, ram: 8, rom: 128gb","xiaomi redmi note 14 8/128gb зеленый (green) | color: green, ram: 8, rom: 128gb",1
+"note 14 green 8/256gb (lime) | color: lime, ram: 8, rom: 256gb","xiaomi redmi note 14 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",1
+"note 14 pro + 5g 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi redmi note 14 pro plus 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",1
+"note 14 pro + 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","sony xperia 1 iv 5g 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"note 14 pro + 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 14 pro plus 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",1
+"note 14 pro + 5g 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",0
+"note 14 pro + 5g 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","realme 12 pro 12/512gb синий (blue) eac | color: blue, ram: 12, rom: 512gb",0
+"note 14 pro + 5g 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","oneplus 13 12/512gb синий (blue) | color: blue, ram: 12, rom: 512gb",0
+"note 14 pro + 5g 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",0
+"note 14 pro + 5g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","sony xperia 1 iv 5g 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",0
+"note 14 pro + 5g 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",1
+"note 14 pro + 5g 8/256gb (black) | color: black, ram: 8, rom: 256gb","realme 11 pro+ 8/256gb черный (black) eac | color: black, ram: 8, rom: 256gb",0
+"note 14 pro + 5g 8/256gb (black) | color: black, ram: 8, rom: 256gb","sony xperia 5 iv 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",0
+"note 14 pro + 5g 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi note 14 pro 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",0
+"note 14 pro + 5g 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi note 12 pro+ 8/256gb синий (blue) eac | color: blue, ram: 8, rom: 256gb",0
+"note 14 pro + 5g 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi note 12 pro 5g 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"note 14 pro + 5g 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi note 14 pro 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",0
+"note 14 pro + 5g 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","xiaomi redmi note 14 pro 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",1
+"note 14 pro + 5g 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","xiaomi redmi note 12 pro 5g 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",0
+"note 14 pro 12/256gb (purple) | color: purple, ram: 12, rom: 256gb","xiaomi redmi note 14 pro 12/256gb фиолетовый (purple) | color: purple, ram: 12, rom: 256gb",1
+"note 14 pro 12/256gb (purple) | color: purple, ram: 12, rom: 256gb","xiaomi redmi note 14 pro 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",0
+"note 14 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 14 pro plus 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"note 14 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",1
+"note 14 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"note 14 pro 12/512gb (ocean blue) | color: ocean blue, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",1
+"note 14 pro 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",1
+"note 14 pro 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","xiaomi redmi note 14 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"note 14 pro 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi note 14 pro 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",1
+"note 14 pro 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi note 14 pro 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",0
+"note 14 pro 8/256gb (ocean blue) | color: ocean blue, ram: 8, rom: 256gb","xiaomi redmi note 14 pro 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",1
+"note 14 pro 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","xiaomi redmi note 14 pro 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",1
+"note 14 pro 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","xiaomi redmi note 14 pro 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",0
+"pixel 6 pro 128gb (black) | color: black, ram: <na>, rom: 128gb","google pixel 6 pro 12/128gb черный (stormy black) | color: stormy black, ram: 12, rom: 128gb",1
+"pixel 6 pro 128gb (black) | color: black, ram: <na>, rom: 128gb","google pixel 8 pro 12/128gb черный (black) | color: black, ram: 12, rom: 128gb",0
+"pixel 6 pro 128gb (black) | color: black, ram: <na>, rom: 128gb","google pixel 6 pro 12/128gb белый (white) | color: white, ram: 12, rom: 128gb",0
+"pixel 6 pro 128gb (sorta sunny) | color: sorta sunny, ram: <na>, rom: 128gb","google pixel 6 pro 12/128gb желтый (yellow) | color: yellow, ram: 12, rom: 128gb",1
+"pixel 6 pro 128gb (white) | color: white, ram: <na>, rom: 128gb","google pixel 6 pro 12/128gb белый (white) | color: white, ram: 12, rom: 128gb",1
+"pixel 6 pro 256gb (cloudy white) | color: cloudy white, ram: <na>, rom: 256gb","google pixel 6 pro 12/256gb белый (white) | color: white, ram: 12, rom: 256gb",1
+"pixel 6 pro 256gb (stormy black) | color: stormy black, ram: <na>, rom: 256gb","google pixel 6 pro 12/256gb черный (stormy black) | color: stormy black, ram: 12, rom: 256gb",1
+"pixel 6a 128gb (charcoal) | color: charcoal, ram: <na>, rom: 128gb","google pixel 6a 8/128gb белый | color: white, ram: 8, rom: 128gb",1
+"pixel 7 128gb (lemongrass) | color: lemongrass, ram: <na>, rom: 128gb","google pixel 7 8/128gb зеленый (grey/green) | color: grey/green, ram: 8, rom: 128gb",1
+"pixel 7 128gb (snow) | color: snow, ram: <na>, rom: 128gb","google pixel 7 8/128gb серебряный (silver) | color: silver, ram: 8, rom: 128gb",1
+"pixel 9 pro xl 5g 256gb (rose quartz) | color: rose quartz, ram: <na>, rom: 256gb","google pixel 9 pro 16/256gb розовый (rose quartz) | color: rose quartz, ram: 16, rom: 256gb",0
+"pixel 9 pro xl 5g 256gb (rose quartz) | color: rose quartz, ram: <na>, rom: 256gb","google pixel 9 pro xl 16/256gb розовый (rose quartz) | color: rose quartz, ram: 16, rom: 256gb",1
+"poco c61 4/128gb (green) | color: green, ram: 4, rom: 128gb","poco c61 4/128gb зеленый (green) | color: green, ram: 4, rom: 128gb",1
+"poco c61 4/128gb (green) | color: green, ram: 4, rom: 128gb","poco c61 4/128gb белый (white) | color: white, ram: 4, rom: 128gb",0
+"poco c61 4/128gb (white) | color: white, ram: 4, rom: 128gb","poco c61 4/128gb белый (white) | color: white, ram: 4, rom: 128gb",1
+"poco c61 4+128 4/128gb (black) | color: black, ram: 4, rom: 128gb","poco c61 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",1
+"poco c61 4+128 4/128gb (black) | color: black, ram: 4, rom: 128gb","poco c61 4/128gb белый (white) | color: white, ram: 4, rom: 128gb",0
+"poco c75 6/128gb (black) | color: black, ram: 6, rom: 128gb","poco c75 6/128gb черный (black) | color: black, ram: 6, rom: 128gb",1
+"poco c75 6/128gb (green) | color: green, ram: 6, rom: 128gb","poco c75 6/128gb зеленый (green) | color: green, ram: 6, rom: 128gb",1
+"poco f6 8/256gb (black) | color: black, ram: 8, rom: 256gb","poco f6 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",1
+"poco f6 8/256gb (green) | color: green, ram: 8, rom: 256gb","poco f6 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",1
+"poco f6 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","poco f6 pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",1
+"poco f6 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","poco f6 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"poco f6 pro 12/512gb (white) | color: white, ram: 12, rom: 512gb","poco f6 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",1
+"poco m6 6/128gb (black) | color: black, ram: 6, rom: 128gb","poco m6 6/128gb черный (black) | color: black, ram: 6, rom: 128gb",1
+"poco m6 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","poco m6 pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",1
+"poco m6 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","poco m6 pro 12/512gb синий (blue) | color: blue, ram: 12, rom: 512gb",0
+"poco m6 pro 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","poco m6 pro 12/512gb синий (blue) | color: blue, ram: 12, rom: 512gb",1
+"poco m6 pro 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","poco m6 pro 12/512gb фиолетовый (purple) | color: purple, ram: 12, rom: 512gb",1
+"poco m6 pro 12/512gb (purple) | color: purple, ram: 12, rom: 512gb","poco m6 pro 12/512gb синий (blue) | color: blue, ram: 12, rom: 512gb",0
+"poco x6 pro 5g 12/512gb (grey) | color: grey, ram: 12, rom: 512gb","poco x6 pro 12/512gb серый (grey) | color: grey, ram: 12, rom: 512gb",1
+"poco x7 12/512gb (black) | color: black, ram: 12, rom: 512gb","poco x7 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",1
+"poco x7 12/512gb (green) | color: green, ram: 12, rom: 512gb","poco x7 12/512gb зеленый (green) | color: green, ram: 12, rom: 512gb",1
+"poco x7 12/512gb (silver) | color: silver, ram: 12, rom: 512gb","poco x7 12/512gb серебро (silver) | color: silver, ram: 12, rom: 512gb",1
+"poco x7 pro 12/512gb (black) | color: black, ram: 12, rom: 512gb","poco x7 pro 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",1
+"poco x7 pro 12/512gb (green) | color: green, ram: 12, rom: 512gb","poco x7 pro 12/512gb зеленый (green) | color: green, ram: 12, rom: 512gb",1
+"poco x7 pro 12/512gb (yellow) | color: yellow, ram: 12, rom: 512gb","poco x7 pro 12/512gb желтый (yellow) | color: yellow, ram: 12, rom: 512gb",1
+"pro 11 m4 wi-fi 256gb (black) | color: black, ram: <na>, rom: 256gb","apple ipad pro 11 (2024) 256gb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 256gb",1
+"pro 11 m4 wi-fi 256gb (black) | color: black, ram: <na>, rom: 256gb","samsung galaxy tab s9 x710 (2023) 12/256gb wi-fi графит | color: black, ram: 12, rom: 256gb",0
+"pro 11 m4 wi-fi 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad pro 11 (2021) 256gb wi-fi silver | color: silver, ram: 8, rom: 256gb",0
+"pro 11 m4 wi-fi 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad pro 11 (2024) 256gb wi-fi cеребристый (silver) | color: silver, ram: nan, rom: 256gb",1
+"pro 11 m4 wi-fi 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad pro 11 (2024) 256gb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 256gb",0
+"pro 13 m4 lte 256gb (black) | color: black, ram: <na>, rom: 256gb","apple ipad pro 13 (2024) 256gb wi-fi + cellular серый космос (space gray) | color: space gray, ram: nan, rom: 256gb",1
+"pro 13 m4 lte 256gb (black) | color: black, ram: <na>, rom: 256gb","samsung galaxy m55 12/256gb черный | color: black, ram: 12, rom: 256gb",0
+"pro 13 m4 lte 256gb (black) | color: black, ram: <na>, rom: 256gb","apple ipad pro 13 (2024) 2tb wi-fi + cellular standart серый космос (space gray) | color: space gray, ram: nan, rom: 2048gb",0
+"pro 13 m4 lte 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple iphone 13 pro max 256gb серебристый (silver) | color: silver, ram: nan, rom: 256gb",0
+"pro 13 m4 lte 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad pro 13 (2024) 256gb wi-fi + cellular cеребристый (silver) | color: silver, ram: nan, rom: 256gb",1
+"pro 13 m4 lte 256gb (silver) | color: silver, ram: <na>, rom: 256gb","apple ipad pro 13 (2024) 2tb wi-fi + cellular standart серый космос (space gray) | color: space gray, ram: nan, rom: 2048gb",0
+"pro 13 m4 wi-fi 256gb (black) | color: black, ram: <na>, rom: 256gb","microsoft surface pro 9 i7 16/256gb графит | color: black, ram: 16, rom: 256gb",0
+"pro 13 m4 wi-fi 256gb (black) | color: black, ram: <na>, rom: 256gb","apple ipad pro 13 (2024) 256gb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 256gb",1
+"pro 13 m4 wi-fi 256gb (black) | color: black, ram: <na>, rom: 256gb","apple ipad pro 13 (2024) 2tb wi-fi + cellular standart серый космос (space gray) | color: space gray, ram: nan, rom: 2048gb",0
+"pro 13 m4 wi-fi 4/256gb (black) | color: black, ram: 4, rom: 256gb","itel a70 4/256gb чёрный (black) eac | color: black, ram: 4, rom: 256gb",0
+"pro 13 m4 wi-fi 4/256gb (black) | color: black, ram: 4, rom: 256gb","apple ipad pro 13 (2024) 256gb wi-fi серый космос (space gray) | color: space gray, ram: nan, rom: 256gb",1
+"pro 13 m4 wi-fi 4/256gb (black) | color: black, ram: 4, rom: 256gb","apple ipad pro 13 (2024) 2tb wi-fi + cellular standart серый космос (space gray) | color: space gray, ram: nan, rom: 2048gb",0
+"pro 14 mrx33 (space black) | color: space black, ram: <na>, rom: none","apple iphone 14 pro 128gb черный (space black) dualsim | color: space black, ram: nan, rom: 128gb",0
+"pro 14 mrx33 (space black) | color: space black, ram: <na>, rom: none","apple ipad pro 13 (2024) 1tb wi-fi nanoglass серый космос (space gray) | color: space gray, ram: nan, rom: 1024gb",0
+"pro 14 mrx63 (silver) | color: silver, ram: <na>, rom: none","zte nubia z60 ultra 16/512gb серебро (silver) | color: silver, ram: 16, rom: 256gb",0
+"pro 14 mrx63 (silver) | color: silver, ram: <na>, rom: none","apple ipad pro 13 (2024) 1tb wi-fi nanoglass серый космос (space gray) | color: space gray, ram: nan, rom: 1024gb",0
+"pro 16 z1cm000m9 (space black) | color: space black, ram: <na>, rom: none","apple iphone 14 pro 128gb черный (space black) dualsim | color: space black, ram: nan, rom: 128gb",0
+"pro 16 z1cm000m9 (space black) | color: space black, ram: <na>, rom: none","apple ipad pro 11 2022 wi-fi cellular 256gb серый космос | color: space gray, ram: nan, rom: 256gb",0
+"realme 12 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","realme 12 pro 8/256gb синий (blue) eac | color: blue, ram: 8, rom: 256gb",0
+"realme 12 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","realme 12 4g 8/256gb голубой рассвет (blue) eac | color: blue, ram: 8, rom: 256gb",1
+"realme 12 8/256gb (green) | color: green, ram: 8, rom: 256gb","realme 12 4g 8/256gb зеленый малахит (green) eac | color: green, ram: 8, rom: 256gb",1
+"realme 12 8/256gb (green) | color: green, ram: 8, rom: 256gb","realme 12+ 8/256gb зеленый (green) eac | color: green, ram: 8, rom: 256gb",0
+"realme c61 6/128gb (gold) | color: gold, ram: 6, rom: 128gb","realme c61 6/128gb золотой (gold) | color: gold, ram: 6, rom: 128gb",1
+"realme c61 6/128gb (gold) | color: gold, ram: 6, rom: 128gb","realme c61 6/256gb золотой (gold) | color: gold, ram: 6, rom: 256gb",0
+"realme c61 6/128gb (green) | color: green, ram: 6, rom: 128gb","realme c61 6/128gb зеленый (green) | color: green, ram: 6, rom: 128gb",1
+"realme c61 6/128gb (green) | color: green, ram: 6, rom: 128gb","realme c61 6/256gb зеленый (green) | color: green, ram: 6, rom: 256gb",0
+"realme c61 8/128gb (green) | color: green, ram: 8, rom: 128gb","realme c61 8/128gb (green) | color: green, ram: 8, rom: 128gb",1
+"realme c61 8/128gb (green) | color: green, ram: 8, rom: 128gb","realme c61 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",0
+"realme c61 8/256gb (gold) | color: gold, ram: 8, rom: 256gb","realme c61 8/256gb золотой (gold) | color: gold, ram: 8, rom: 256gb",1
+"realme c61 8/256gb (green) | color: green, ram: 8, rom: 256gb","realme c61 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",1
+"realme c63 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","realme c63 8/256gb синий (blue) eac | color: blue, ram: 8, rom: 256gb",0
+"realme c67 8/256gb (black) | color: black, ram: 8, rom: 256gb","realme 12x 5g 8/256gb чёрный (black) | color: black, ram: 8, rom: 256gb",0
+"realme c67 8/256gb (black) | color: black, ram: 8, rom: 256gb","realme c67 4g 8/256gb черный (black stone) eac | color: black stone, ram: 8, rom: 256gb",1
+"realme c67 8/256gb (black) | color: black, ram: 8, rom: 256gb","realme c67 6/128gb черный (black stone) eac | color: black stone, ram: 6, rom: 128gb",0
+"realme note 50 3/64gb (black) | color: black, ram: 3, rom: 64gb","realme note 50 3/64 черный (speed black) eac | color: speed black, ram: 3, rom: 64gb",1
+"realme note 50 4/128gb (black) | color: black, ram: 4, rom: 128gb","realme note 50 4/128 черный (speed black) eac | color: speed black, ram: 4, rom: 128gb",1
+"realme note 60 4/128gb (black) | color: black, ram: 4, rom: 128gb","realme c51 4/128gb черный (black) eac | color: black, ram: 4, rom: 128gb",0
+"realme note 60 4/128gb (black) | color: black, ram: 4, rom: 128gb","infinix note 30 8/256gb черный (black) eac | color: black, ram: 8, rom: 256gb",0
+"realme note 60 4/128gb (blue) | color: blue, ram: 4, rom: 128gb","infinix note 30 8/256gb черный (black) eac | color: black, ram: 8, rom: 256gb",0
+"realme note 60x 3/64gb (black) | color: black, ram: 3, rom: 64gb","huawei p60 pro 8/256gb белый (rococo pearl) | color: rococo pearl, ram: 8, rom: 256gb",0
+"realme note 60x 3/64gb (green) | color: green, ram: 3, rom: 64gb","huawei p60 pro 8/256gb белый (rococo pearl) | color: rococo pearl, ram: 8, rom: 256gb",0
+"redmi 12 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi 12 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",1
+"redmi 12 nfc 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi note 12s nfc 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"redmi 12 nfc 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi 12 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",1
+"redmi 13 6/128gb (black) | color: black, ram: 6, rom: 128gb","xiaomi redmi 13 6/128gb черный (black) | color: black, ram: 6, rom: 128gb",1
+"redmi 13 6/128gb (gold) | color: gold, ram: 6, rom: 128gb","xiaomi redmi 13 6/128gb золотой (sandy gold) | color: sandy gold, ram: 6, rom: 128gb",1
+"redmi 13 6/128gb (gold) | color: gold, ram: 6, rom: 128gb","xiaomi mi pad 6 6/128gb бежевый | color: gold, ram: 6, rom: 128gb",0
+"redmi 13 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi 13 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",1
+"redmi 13 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi 13 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",1
+"redmi 14c 4/128gb (blue) | color: blue, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb синий (blue) | color: blue, ram: 4, rom: 128gb",1
+"redmi 14c 4/128gb (blue) | color: blue, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",0
+"redmi 14c 4/128gb (dreamy purple) | color: dreamy purple, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb фиолетовый (purple) | color: purple, ram: 4, rom: 128gb",1
+"redmi 14c 4/128gb (green) | color: green, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb зеленый | color: green, ram: 4, rom: 128gb",1
+"redmi 14c 4/128gb (midnight black) | color: midnight black, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",1
+"redmi 14c 4/128gb (midnight black) | color: midnight black, ram: 4, rom: 128gb","xiaomi redmi note 12 4g 4/128gb черный (midnight black) | color: midnight black, ram: 4, rom: 128gb",0
+"redmi 14c 4/128gb (sage green) | color: sage green, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb зеленый | color: green, ram: 4, rom: 128gb",1
+"redmi 14c 4/128gb (sage green) | color: sage green, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",0
+"redmi 14c 4/128gb (starry blue) | color: starry blue, ram: 4, rom: 128gb","xiaomi redmi 14c 4/128gb синий (blue) | color: blue, ram: 4, rom: 128gb",1
+"redmi 14c 8/256gb (black) | color: black, ram: 8, rom: 256gb","xiaomi redmi 14c 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",1
+"redmi 14c 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi 14c 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"redmi 14c 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","xiaomi redmi 14c 4/128gb синий (blue) | color: blue, ram: 4, rom: 128gb",0
+"redmi 14c 8/256gb (green) | color: green, ram: 8, rom: 256gb","xiaomi redmi 14c 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",1
+"redmi 14c 8/256gb (green) | color: green, ram: 8, rom: 256gb","xiaomi redmi 14c 6/128gb зеленый (green) | color: green, ram: 6, rom: 128gb",0
+"redmi 14c 8/256gb (midnight black) | color: midnight black, ram: 8, rom: 256gb","xiaomi redmi note 12 4g 8/256gb черный (midnight black) | color: midnight black, ram: 8, rom: 256gb",0
+"redmi 14c 8/256gb (midnight black) | color: midnight black, ram: 8, rom: 256gb","xiaomi redmi 14c 8/256gb черный (black) | color: black, ram: 8, rom: 256gb",1
+"redmi 14c 8/256gb (midnight black) | color: midnight black, ram: 8, rom: 256gb","xiaomi redmi 14c 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",0
+"redmi 14c 8/256gb (sage green) | color: sage green, ram: 8, rom: 256gb","xiaomi redmi 14c 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",1
+"redmi 14c 8/256gb (sage green) | color: sage green, ram: 8, rom: 256gb","xiaomi redmi 14c 6/128gb зеленый (green) | color: green, ram: 6, rom: 128gb",0
+"redmi 14c 8/256gb (starry blue) | color: starry blue, ram: 8, rom: 256gb","xiaomi redmi 14c 6/128gb фиолетовый (purple) | color: purple, ram: 6, rom: 128gb",0
+"redmi a3 4/128gb (blue) | color: blue, ram: 4, rom: 128gb","xiaomi redmi a3 4/128gb синий (blue) eac | color: blue, ram: 4, rom: 128gb",1
+"redmi a3 4/128gb (blue) | color: blue, ram: 4, rom: 128gb","xiaomi redmi a3 3/64gb зелёный (green) eac | color: green, ram: 3, rom: 64gb",0
+"redmi a3x 3/64gb (white) | color: white, ram: 3, rom: 64gb","xiaomi redmi a3x 3/64gb белый (white) eac | color: white, ram: 3, rom: 64gb",1
+"redmi note 11s 8/128gb (blue) | color: blue, ram: 8, rom: 128gb","xiaomi 11t 8/128gb голубой (blue) | color: blue, ram: 8, rom: 128gb",0
+"redmi note 11s 8/128gb (blue) | color: blue, ram: 8, rom: 128gb","xiaomi redmi note 11s 8/128gb синий (twilight blue) | color: twilight blue, ram: 8, rom: 128gb",1
+"redmi pad se 8.7 wi-fi 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","xiaomi redmi pad se 4g 8.7 4/128gb синий (blue) | color: blue, ram: 4, rom: 128gb",0
+"redmi pad se 8.7 wi-fi 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","xiaomi redmi pad pro 6/128gb синий (blue) | color: blue, ram: 6, rom: 128gb",0
+"redmi pad se 8.7 wi-fi 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","xiaomi redmi pad se 6/128gb серый | color: gray, ram: 6, rom: 128gb",0
+"redmi pad se 8.7 wi-fi 6/128gb (gray) | color: gray, ram: 6, rom: 128gb","xiaomi redmi pad se 6/128gb серый | color: gray, ram: 6, rom: 128gb",1
+"redmi pad se 8.7 wi-fi 6/128gb (green) | color: green, ram: 6, rom: 128gb","xiaomi redmi pad se 6/128gb зеленый | color: green, ram: 6, rom: 128gb",1
+"s22 s901e/ds 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","samsung galaxy s23 fe 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",0
+"s22 s901e/ds 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","samsung galaxy s22 8/256gb фиолетовый (purple) | color: purple, ram: 8, rom: 256gb",1
+"s22 s901e/ds 8/256gb (purple) | color: purple, ram: 8, rom: 256gb","samsung galaxy s22 8/256gb белый фантом (phantom white) | color: phantom white, ram: 8, rom: 256gb",0
+"s22 sm-s901b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s22 8/128gb черный фантом (phantom black) | color: phantom black, ram: 8, rom: 128gb",1
+"s22 sm-s901b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s24 fe 8/128gb графит | color: black, ram: 8, rom: 128gb",0
+"s22 sm-s901b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s22 8/128gb белый фантом (phantom white) | color: phantom white, ram: 8, rom: 128gb",0
+"s22 ultra sm-s908b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s22 ultra 8/128gb черный фантом (phantom black) | color: phantom black, ram: 8, rom: 128gb",1
+"s22 ultra sm-s908b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s24 fe 8/128gb графит | color: black, ram: 8, rom: 128gb",0
+"s22 ultra sm-s908b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s22 ultra 8/128gb бургунди (burgundy) | color: burgundy, ram: 8, rom: 128gb",0
+"s22 ultra sm-s908e/ds 12/256gb (burgundy) | color: burgundy, ram: 12, rom: 256gb","samsung galaxy s22 ultra 12/256gb бургунди (burgundy) | color: burgundy, ram: 12, rom: 256gb",1
+"s22 ultra sm-s908e/ds 12/256gb (burgundy) | color: burgundy, ram: 12, rom: 256gb","samsung galaxy s22 ultra 12/512gb бургунди (burgundy) | color: burgundy, ram: 12, rom: 512gb",0
+"s22 ultra sm-s908e/ds 12/512gb (black) | color: black, ram: 12, rom: 512gb","samsung galaxy s22 ultra 12/512gb черный фантом (phantom black) | color: phantom black, ram: 12, rom: 512gb",1
+"s22 ultra sm-s908e/ds 12/512gb (black) | color: black, ram: 12, rom: 512gb","samsung galaxy s22 ultra 12/512gb бургунди (burgundy) | color: burgundy, ram: 12, rom: 512gb",0
+"s22 ultra sm-s908e/ds 12/512gb (white) | color: white, ram: 12, rom: 512gb","honor 200 pro 12/512gb белый (white) | color: white, ram: 12, rom: 512gb",0
+"s22 ultra sm-s908e/ds 12/512gb (white) | color: white, ram: 12, rom: 512gb","samsung galaxy s22 ultra 12/512gb белый фантом (phantom white) | color: phantom white, ram: 12, rom: 512gb",1
+"s22 ultra sm-s908e/ds 12/512gb (white) | color: white, ram: 12, rom: 512gb","samsung galaxy s22 ultra 12/512gb бургунди (burgundy) | color: burgundy, ram: 12, rom: 512gb",0
+"s22+ sm-s906e/ds 8/128gb (white) | color: white, ram: 8, rom: 128gb","samsung galaxy s22+ 8/128gb белый фантом (phantom white) | color: phantom white, ram: 8, rom: 128gb",1
+"s22+ sm-s906e/ds 8/128gb (white) | color: white, ram: 8, rom: 128gb","samsung galaxy s21 fe 8/128gb белый (white) | color: white, ram: 8, rom: 128gb",0
+"s22+ sm-s906e/ds 8/128gb (white) | color: white, ram: 8, rom: 128gb","samsung galaxy s22+ 8/256gb розовый (pink gold) | color: pink gold, ram: 8, rom: 256gb",0
+"s22+ sm-s906e/ds 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy s22+ 8/256gb черный фантом (phantom black) | color: phantom black, ram: 8, rom: 256gb",1
+"s22+ sm-s906e/ds 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy s24 fe 8/256gb графит | color: black, ram: 8, rom: 256gb",0
+"s22+ sm-s906e/ds 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy s22+ 8/256gb розовый (pink gold) | color: pink gold, ram: 8, rom: 256gb",0
+"s22+ sm-s906e/ds 8/256gb (white) | color: white, ram: 8, rom: 256gb","samsung galaxy s22+ 8/256gb белый фантом (phantom white) | color: phantom white, ram: 8, rom: 256gb",1
+"s22+ sm-s906e/ds 8/256gb (white) | color: white, ram: 8, rom: 256gb","samsung galaxy s21 fe 8/256gb белый (white) | color: white, ram: 8, rom: 256gb",0
+"s22+ sm-s906e/ds 8/256gb (white) | color: white, ram: 8, rom: 256gb","samsung galaxy s22+ 8/256gb розовый (pink gold) | color: pink gold, ram: 8, rom: 256gb",0
+"s23 fe sm-711b/ds 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy s23 fe 8/128gb графитовый (graphite) | color: graphite, ram: 8, rom: 128gb",1
+"s23 fe sm-711b/ds 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy s23 fe 8/128gb бежевый (cream) | color: cream, ram: 8, rom: 128gb",0
+"s23 fe sm-711b/ds 8/256gb (mint) | color: mint, ram: 8, rom: 256gb","samsung galaxy s23 fe 8/256gb мятный (mint) | color: mint, ram: 8, rom: 256gb",1
+"s23 fe sm-711b/ds 8/256gb (mint) | color: mint, ram: 8, rom: 256gb","samsung galaxy s23 fe 8/128gb синий (indigo) | color: indigo, ram: 8, rom: 128gb",0
+"s23 sm-911b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s23 8/128gb черный фантом (phantom black) | color: phantom black, ram: 8, rom: 128gb",1
+"s23 sm-911b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s24 fe 8/128gb графит | color: black, ram: 8, rom: 128gb",0
+"s23 sm-s911b/ds 8/128gb (cream) | color: cream, ram: 8, rom: 128gb","samsung galaxy s23 fe 8/128gb бежевый (cream) | color: cream, ram: 8, rom: 128gb",1
+"s23 sm-s911b/ds 8/128gb (cream) | color: cream, ram: 8, rom: 128gb","samsung galaxy s23 8/128gb черный фантом (phantom black) | color: phantom black, ram: 8, rom: 128gb",0
+"s23 ultra sm-s918b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy m55 12/256gb черный | color: black, ram: 12, rom: 256gb",0
+"s23 ultra sm-s918b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s23 ultra 12/256gb черный фантом (phantom black) | color: phantom black, ram: 12, rom: 256gb",1
+"s23 ultra sm-s918b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s23 ultra 12/512gb бежевый (cream) | color: cream, ram: 12, rom: 512gb",0
+"s24 + sm-s926b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy z fold4 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",0
+"s24 + sm-s926b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s24+ 12/256gb черный (onyx black) | color: onyx black, ram: 12, rom: 256gb",1
+"s24 + sm-s926b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s24+ 12/512gb черный (onyx black) | color: onyx black, ram: 12, rom: 512gb",0
+"s24 + sm-s926b/ds 12/256gb (gray) | color: gray, ram: 12, rom: 256gb","samsung galaxy tab s9+ 12.4 x810 (2023) 12/256gb графит | color: gray, ram: 12, rom: 256gb",0
+"s24 + sm-s926b/ds 12/256gb (gray) | color: gray, ram: 12, rom: 256gb","samsung galaxy s24+ 12/256gb серый (marble gray) | color: marble gray, ram: 12, rom: 256gb",1
+"s24 + sm-s926b/ds 12/256gb (gray) | color: gray, ram: 12, rom: 256gb","samsung galaxy s24+ 12/512gb черный (onyx black) | color: onyx black, ram: 12, rom: 512gb",0
+"s24 + sm-s926b/ds 12/256gb (violet) | color: violet, ram: 12, rom: 256gb","samsung galaxy s24+ 12/512gb синий (sapphire blue) | color: sapphire blue, ram: 12, rom: 512gb",0
+"s24 fe sm-s721b/ds 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","poco m4 pro 4g 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"s24 fe sm-s721b/ds 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","samsung galaxy s24 fe 8/256gb голубой | color: light blue, ram: 8, rom: 256gb",1
+"s24 fe sm-s721b/ds 8/256gb (blue) | color: blue, ram: 8, rom: 256gb","samsung galaxy s24 fe 8/128gb графит | color: black, ram: 8, rom: 128gb",0
+"s24 fe sm-s721b/ds 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","samsung galaxy tab s9 fe wi-fi 8/256gb серый eu | color: gray, ram: 8, rom: 256gb",0
+"s24 fe sm-s721b/ds 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","samsung galaxy s24 fe 8/256gb серый | color: silver, ram: 8, rom: 256gb",1
+"s24 fe sm-s721b/ds 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","samsung galaxy s24 fe 8/128gb графит | color: black, ram: 8, rom: 128gb",0
+"s24 fe sm-s721b/ds 8/256gb (mint) | color: mint, ram: 8, rom: 256gb","samsung galaxy s23 fe 8/256gb мятный (mint) | color: mint, ram: 8, rom: 256gb",0
+"s24 fe sm-s721b/ds 8/256gb (mint) | color: mint, ram: 8, rom: 256gb","samsung galaxy s24 fe 8/128gb графит | color: black, ram: 8, rom: 128gb",0
+"s24 fe sm-s721b/ds 8/512gb (graphite) | color: graphite, ram: 8, rom: 512gb","samsung galaxy s24 fe 8/512gb графит | color: space gray, ram: 8, rom: 512gb",1
+"s24 fe sm-s721b/ds 8/512gb (graphite) | color: graphite, ram: 8, rom: 512gb","samsung galaxy s24 fe 8/512gb голубой | color: light blue, ram: 8, rom: 512gb",0
+"s24 fe sm-s721b/ds 8/512gb (gray) | color: gray, ram: 8, rom: 512gb","samsung galaxy s24 fe 8/512gb серый | color: gray, ram: 8, rom: 512gb",1
+"s24 sm-s9210 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","samsung galaxy tab s9 fe wi-fi 8/256gb серый eu | color: gray, ram: 8, rom: 256gb",0
+"s24 sm-s9210 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","samsung galaxy s24 8/256gb серый (marble gray) | color: marble gray, ram: 8, rom: 256gb",1
+"s24 sm-s9210 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","samsung galaxy s24 8/128gb синий (sapphire blue) | color: sapphire blue, ram: 8, rom: 128gb",0
+"s24 sm-s921b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s24 fe 8/128gb графит | color: black, ram: 8, rom: 128gb",1
+"s24 sm-s921b/ds 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy s24 8/128gb синий (sapphire blue) | color: sapphire blue, ram: 8, rom: 128gb",0
+"s24 sm-s921b/ds 8/128gb (marble gray) | color: marble gray, ram: 8, rom: 128gb","samsung galaxy s24 8/128gb серый (marble gray) | color: marble gray, ram: 8, rom: 128gb",1
+"s24 sm-s921b/ds 8/128gb (marble gray) | color: marble gray, ram: 8, rom: 128gb","samsung galaxy s24 8/128gb синий (sapphire blue) | color: sapphire blue, ram: 8, rom: 128gb",0
+"s24 sm-s921b/ds 8/128gb (violet) | color: violet, ram: 8, rom: 128gb","samsung galaxy s24 8/128gb фиолетовый (cobalt violet) | color: cobalt violet, ram: 8, rom: 128gb",1
+"s24 sm-s921b/ds 8/128gb (yellow) | color: yellow, ram: 8, rom: 128gb","poco m4 pro 4g 8/128gb желтый (yellow) | color: yellow, ram: 8, rom: 128gb",0
+"s24 sm-s921b/ds 8/128gb (yellow) | color: yellow, ram: 8, rom: 128gb","samsung galaxy s24 8/128gb желтый (amber yellow) | color: amber yellow, ram: 8, rom: 128gb",1
+"s24 sm-s921b/ds 8/128gb (yellow) | color: yellow, ram: 8, rom: 128gb","samsung galaxy s24 8/128gb синий (sapphire blue) | color: sapphire blue, ram: 8, rom: 128gb",0
+"s24 sm-s921b/ds 8/256gb (jade green) | color: jade green, ram: 8, rom: 256gb","samsung galaxy s24 8/256gb зеленый (jade green) | color: jade green, ram: 8, rom: 256gb",1
+"s24 sm-s921b/ds 8/256gb (jade green) | color: jade green, ram: 8, rom: 256gb","samsung galaxy s24 8/128gb синий (sapphire blue) | color: sapphire blue, ram: 8, rom: 128gb",0
+"s24 ultra sm-s928b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s24 ultra 12/256gb черный (titanium black) | color: titanium black, ram: 12, rom: 256gb",1
+"s24 ultra sm-s928b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","xiaomi 12s ultra 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",0
+"s24 ultra sm-s928b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s24 ultra 12/512gb черный (titanium black) | color: titanium black, ram: 12, rom: 512gb",0
+"s24 ultra sm-s928b/ds 12/256gb (grey) | color: grey, ram: 12, rom: 256gb","samsung galaxy s24 ultra 12/256gb серый (titanium gray) | color: titanium gray, ram: 12, rom: 256gb",1
+"s24 ultra sm-s928b/ds 12/256gb (grey) | color: grey, ram: 12, rom: 256gb","samsung galaxy s24 ultra 12/512gb черный (titanium black) | color: titanium black, ram: 12, rom: 512gb",0
+"s24 ultra sm-s928b/ds 12/256gb (violet) | color: violet, ram: 12, rom: 256gb","samsung galaxy s24 ultra 12/512gb желтый (titanium yellow) | color: titanium yellow, ram: 12, rom: 512gb",0
+"s24 ultra sm-s928b/ds 12/512gb (black) | color: black, ram: 12, rom: 512gb","samsung galaxy z fold4 12/512gb черный (black) | color: black, ram: 12, rom: 512gb",0
+"s24 ultra sm-s928b/ds 12/512gb (black) | color: black, ram: 12, rom: 512gb","samsung galaxy s24 ultra 12/512gb черный (titanium black) | color: titanium black, ram: 12, rom: 512gb",1
+"s24 ultra sm-s928b/ds 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","samsung galaxy tab s9 ultra 5g sm-x916 12/512gb (2023) графит | color: gray, ram: 12, rom: 512gb",0
+"s24 ultra sm-s928b/ds 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","samsung galaxy s24 ultra 12/512gb серый (titanium gray) | color: titanium gray, ram: 12, rom: 512gb",1
+"s24 ultra sm-s928b/ds 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","samsung galaxy s24 8/512gb синий (sapphire blue) | color: sapphire blue, ram: 8, rom: 512gb",0
+"samsung a06 6/128gb (gold) | color: gold, ram: 6, rom: 128gb","samsung galaxy a06 6/128gb золотой (gold) | color: gold, ram: 6, rom: 128gb",1
+"samsung a06 6/128gb (light blue) | color: light blue, ram: 6, rom: 128gb","samsung galaxy a06 6/128gb голубой (light blue) | color: light blue, ram: 6, rom: 128gb",1
+"samsung a15 4/128gb (yellow) | color: yellow, ram: 4, rom: 128gb","samsung galaxy a15 4g 4/128gb желтый (yellow) | color: yellow, ram: 4, rom: 128gb",1
+"samsung a15 6/128gb (black) | color: black, ram: 6, rom: 128gb","samsung galaxy a05s 6/128gb черный (black) | color: black, ram: 6, rom: 128gb",0
+"samsung a15 6/128gb (black) | color: black, ram: 6, rom: 128gb","samsung galaxy a15 4g 6/128gb темно-синий (dark blue) | color: dark blue, ram: 6, rom: 128gb",1
+"samsung a15 6/128gb (black) | color: black, ram: 6, rom: 128gb","samsung galaxy a15 4g 6/128gb синий (blue) | color: blue, ram: 6, rom: 128gb",0
+"samsung a15 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","samsung galaxy a15 4g 6/128gb синий (blue) | color: blue, ram: 6, rom: 128gb",1
+"samsung a15 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","samsung galaxy a15 5g 6/128gb синий (blue) | color: blue, ram: 6, rom: 128gb",1
+"samsung a15 6/128gb (yellow) | color: yellow, ram: 6, rom: 128gb","samsung galaxy a15 4g 6/128gb желтый (yellow) | color: yellow, ram: 6, rom: 128gb",1
+"samsung a15 6/128gb (yellow) | color: yellow, ram: 6, rom: 128gb","samsung galaxy a15 5g 6/128gb желтый (yellow) | color: yellow, ram: 6, rom: 128gb",1
+"samsung a15 8/256gb (yellow) | color: yellow, ram: 8, rom: 256gb","samsung galaxy a15 4g 8/256gb желтый (yellow) | color: yellow, ram: 8, rom: 256gb",1
+"samsung a16 4/128gb (black) | color: black, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb черный (black) | color: black, ram: 4, rom: 128gb",1
+"samsung a16 4/128gb (gray) | color: gray, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb серый (light grey) | color: light grey, ram: 4, rom: 128gb",1
+"samsung a16 4/128gb (green) | color: green, ram: 4, rom: 128gb","samsung galaxy a16 4/128gb зелёный (light green) | color: light green, ram: 4, rom: 128gb",1
+"samsung a16 4/128gb (green) | color: green, ram: 4, rom: 128gb","samsung galaxy a22 4/128gb мятный eac | color: green, ram: 4, rom: 128gb",0
+"samsung a16 6/128gb (green) | color: green, ram: 6, rom: 128gb","samsung galaxy a16 6/128gb зелёный (light green) | color: light green, ram: 6, rom: 128gb",1
+"samsung a16 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy a16 8/256gb черный (blue black) | color: blue black, ram: 8, rom: 256gb",1
+"samsung a16 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","samsung galaxy a16 8/256gb серый (light grey) | color: light grey, ram: 8, rom: 256gb",1
+"samsung a16 8/256gb (gray) | color: gray, ram: 8, rom: 256gb","samsung galaxy note 20 8/256gb графит | color: gray, ram: 8, rom: 256gb",0
+"samsung a16 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy a16 8/256gb зелёный (light green) | color: light green, ram: 8, rom: 256gb",1
+"samsung a16 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy s22+ 8/256gb зеленый (green) | color: green, ram: 8, rom: 256gb",0
+"samsung a25 6 128 6/128gb (light blue) | color: light blue, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb голубой (light blue) | color: light blue, ram: 6, rom: 128gb",1
+"samsung a25 6 128 6/128gb (light blue) | color: light blue, ram: 6, rom: 128gb","samsung galaxy a25 6/128gb синий (blue) | color: blue, ram: 6, rom: 128gb",0
+"samsung a25 8 256 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy a25 8/256gb темно-синий (dark blue) | color: dark blue, ram: 8, rom: 256gb",1
+"samsung a25 8 256 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy a52 8/256gb черный (black) eac | color: black, ram: 8, rom: 256gb",0
+"samsung a25 8 256 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy a25 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"samsung a25 8 256 8/256gb (light blue) | color: light blue, ram: 8, rom: 256gb","samsung galaxy a25 8/256gb голубой (light blue) | color: light blue, ram: 8, rom: 256gb",1
+"samsung a25 8 256 8/256gb (light blue) | color: light blue, ram: 8, rom: 256gb","samsung galaxy a25 8/256gb синий (blue) | color: blue, ram: 8, rom: 256gb",0
+"samsung a35 8/256gb (lemon) | color: lemon, ram: 8, rom: 256gb","samsung galaxy a35 8/256gb желтый (awesome lemon) | color: awesome lemon, ram: 8, rom: 256gb",1
+"samsung a55 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","samsung galaxy a55 12/256gb голубой (blue) | color: blue, ram: 12, rom: 256gb",1
+"samsung a55 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","samsung galaxy a55 12/256gb желтый (lemon) | color: lemon, ram: 12, rom: 256gb",0
+"samsung a55 12/256gb (lilac) | color: lilac, ram: 12, rom: 256gb","samsung galaxy a55 12/256gb фиолетовый (lilac) | color: lilac, ram: 12, rom: 256gb",1
+"samsung a55 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy a33 5g 8/128gb черный (black) | color: black, ram: 8, rom: 128gb",0
+"samsung a55 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy m55s 8/128gb черный | color: black, ram: 8, rom: 128gb",1
+"samsung a55 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy a55 8/256gb желтый (awesome lemon) | color: awesome lemon, ram: 8, rom: 256gb",0
+"samsung a55 8/128gb (lemon) | color: lemon, ram: 8, rom: 128gb","samsung galaxy a55 8/256gb желтый (awesome lemon) | color: awesome lemon, ram: 8, rom: 256gb",0
+"samsung a55 8/128gb (yellow) | color: yellow, ram: 8, rom: 128gb","samsung galaxy a55 8/128gb желтый (awesome lemon) | color: awesome lemon, ram: 8, rom: 128gb",1
+"samsung a55 8/128gb (yellow) | color: yellow, ram: 8, rom: 128gb","samsung galaxy a55 8/256gb желтый (awesome lemon) | color: awesome lemon, ram: 8, rom: 256gb",0
+"samsung a9 plus 5g sm-x216b 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy tab a9+ 5g 8/128gb серый (graphite) | color: graphite, ram: 8, rom: 128gb",1
+"samsung a9 plus 5g sm-x216b 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy tab a9+ 5g 8/128gb темно-синий (navy) | color: navy, ram: 8, rom: 128gb",1
+"samsung a9 plus 5g sm-x216b 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab s9 fe + 5g 8/128gb серебро | color: silver, ram: 8, rom: 128gb",0
+"samsung a9 plus 5g sm-x216b 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9+ lte 8/128gb серебро | color: silver, ram: 8, rom: 128gb",1
+"samsung a9 plus 5g sm-x216b 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9+ 5g 8/128gb темно-синий (navy) | color: navy, ram: 8, rom: 128gb",0
+"samsung a9 plus sm-x210 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy tab a9+ 5g 8/128gb серый (graphite) | color: graphite, ram: 8, rom: 128gb",1
+"samsung a9 plus sm-x210 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy tab a9+ 5g 8/128gb темно-синий (navy) | color: navy, ram: 8, rom: 128gb",1
+"samsung a9 plus sm-x210 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9+ 5g 4/64gb серебристый eu | color: silver, ram: 4, rom: 64gb",1
+"samsung a9 plus sm-x210 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9+ lte 8/128gb серебро | color: silver, ram: 8, rom: 128gb",1
+"samsung f15 4/128gb (black) | color: black, ram: 4, rom: 128gb","samsung galaxy f15 4/128gb черный | color: black, ram: 4, rom: 128gb",1
+"samsung f15 4/128gb (green) | color: green, ram: 4, rom: 128gb","samsung galaxy f15 4/128gb зеленый | color: green, ram: 4, rom: 128gb",1
+"samsung f15 4/128gb (purple) | color: purple, ram: 4, rom: 128gb","samsung galaxy f15 4/128gb фиолетовый | color: purple, ram: 4, rom: 128gb",1
+"samsung f15 4/128gb (purple) | color: purple, ram: 4, rom: 128gb","samsung galaxy f15 4/128gb черный | color: black, ram: 4, rom: 128gb",0
+"samsung f55 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy f55 8/256gb черный | color: black, ram: 8, rom: 256gb",1
+"samsung f55 8/256gb (orange) | color: orange, ram: 8, rom: 256gb","samsung galaxy f55 8/256gb оранжевый | color: orange, ram: 8, rom: 256gb",1
+"samsung f55 8/256gb (orange) | color: orange, ram: 8, rom: 256gb","samsung galaxy f55 8/256gb черный | color: black, ram: 8, rom: 256gb",0
+"samsung m35 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","samsung galaxy m35 6/128gb голубой (moonlight blue) | color: moonlight blue, ram: 6, rom: 128gb",1
+"samsung m35 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","samsung galaxy m34 5g 6/128gb синий (blue) | color: blue, ram: 6, rom: 128gb",0
+"samsung m35 6/128gb (blue) | color: blue, ram: 6, rom: 128gb","samsung galaxy m35 6/128gb синий (daybreak blue) | color: daybreak blue, ram: 6, rom: 128gb",1
+"samsung m35 6/128gb (dark blue) | color: dark blue, ram: 6, rom: 128gb","samsung galaxy m35 6/128gb синий (daybreak blue) | color: daybreak blue, ram: 6, rom: 128gb",1
+"samsung m35 6/128gb (gray) | color: gray, ram: 6, rom: 128gb","samsung galaxy m35 6/128gb серый (thunder grey) | color: thunder grey, ram: 6, rom: 128gb",1
+"samsung m35 6/128gb (gray) | color: gray, ram: 6, rom: 128gb","samsung galaxy m35 6/128gb синий (daybreak blue) | color: daybreak blue, ram: 6, rom: 128gb",0
+"samsung m55 5g 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy m55s 8/256gb бирюзовый | color: green, ram: 8, rom: 256gb",0
+"samsung m55 5g 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy m55 8/128gb зеленый (light green) | color: light green, ram: 8, rom: 128gb",1
+"samsung m55 5g 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy m55 12/256gb зеленый (light green) | color: light green, ram: 12, rom: 256gb",0
+"samsung m55s 5g 8/128gb (black) | color: black, ram: 8, rom: 128gb","samsung galaxy m55s 8/128gb черный | color: black, ram: 8, rom: 128gb",1
+"samsung m55s 5g 8/128gb (green) | color: green, ram: 8, rom: 128gb","samsung galaxy m55s 8/128gb бирюзовый | color: green, ram: 8, rom: 128gb",1
+"samsung m55s 5g 8/128gb (green) | color: green, ram: 8, rom: 128gb","samsung galaxy m55s 8/128gb черный | color: black, ram: 8, rom: 128gb",0
+"samsung m55s 5g 8/256gb (black) | color: black, ram: 8, rom: 256gb","samsung galaxy m55s 8/256gb черный | color: black, ram: 8, rom: 256gb",1
+"samsung m55s 5g 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy m55s 8/256gb бирюзовый | color: green, ram: 8, rom: 256gb",1
+"samsung m55s 5g 8/256gb (green) | color: green, ram: 8, rom: 256gb","samsung galaxy m55s 8/256gb черный | color: black, ram: 8, rom: 256gb",0
+"samsung s21 fe 5g 8/128gb (olive) | color: olive, ram: 8, rom: 128gb","samsung galaxy s21 fe 8/128gb зеленый (olive) | color: olive, ram: 8, rom: 128gb",1
+"samsung s23 fe 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy s23 fe 8/128gb графитовый (graphite) | color: graphite, ram: 8, rom: 128gb",1
+"samsung s23 fe 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy s23 fe 8/128gb синий (indigo) | color: indigo, ram: 8, rom: 128gb",0
+"samsung s23 fe 8/128gb (mint) | color: mint, ram: 8, rom: 128gb","samsung galaxy s23 fe 8/128gb мятный (mint) | color: mint, ram: 8, rom: 128gb",1
+"samsung s23 fe 8/128gb (mint) | color: mint, ram: 8, rom: 128gb","samsung galaxy s23 fe 8/128gb синий (indigo) | color: indigo, ram: 8, rom: 128gb",0
+"samsung s23 ultra 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s23 ultra 12/256gb черный фантом (phantom black) | color: phantom black, ram: 12, rom: 256gb",1
+"samsung s23 ultra 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s23 ultra 12/512gb лайм (lime) | color: lime, ram: 12, rom: 512gb",0
+"samsung s24 8/128gb (gray) | color: gray, ram: 8, rom: 128gb","samsung galaxy s21 5g 8/128gb серый фантом | color: gray, ram: 8, rom: 128gb",0
+"samsung s24 8/128gb (gray) | color: gray, ram: 8, rom: 128gb","samsung galaxy s24 8/128gb серый (marble gray) | color: marble gray, ram: 8, rom: 128gb",1
+"samsung s24 8/128gb (gray) | color: gray, ram: 8, rom: 128gb","samsung galaxy s24 8/128gb синий (sapphire blue) | color: sapphire blue, ram: 8, rom: 128gb",0
+"samsung s24 fe 8/512gb (blue) | color: blue, ram: 8, rom: 512gb","samsung galaxy s24 fe 8/512gb серый | color: gray, ram: 8, rom: 512gb",0
+"samsung s24 fe 8/512gb (graphite) | color: graphite, ram: 8, rom: 512gb","samsung galaxy s24 fe 8/512gb графит | color: space gray, ram: 8, rom: 512gb",1
+"samsung s24 fe 8/512gb (graphite) | color: graphite, ram: 8, rom: 512gb","samsung galaxy s24 fe 8/512gb серый | color: gray, ram: 8, rom: 512gb",0
+"samsung s24 fe 8/512gb (gray) | color: gray, ram: 8, rom: 512gb","samsung galaxy s24 fe 8/512gb серый | color: gray, ram: 8, rom: 512gb",1
+"samsung s24 plus 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy z fold4 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",0
+"samsung s24 plus 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s24+ 12/256gb черный (onyx black) | color: onyx black, ram: 12, rom: 256gb",1
+"samsung s24 plus 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s24+ 12/256gb оранжевый (sandstone orange) | color: sandstone orange, ram: 12, rom: 256gb",0
+"samsung s24 plus 12/256gb (yellow) | color: yellow, ram: 12, rom: 256gb","samsung galaxy s24+ 12/256gb желтый (amber yellow) | color: amber yellow, ram: 12, rom: 256gb",1
+"samsung s24 plus 12/256gb (yellow) | color: yellow, ram: 12, rom: 256gb","samsung galaxy s24+ 12/256gb оранжевый (sandstone orange) | color: sandstone orange, ram: 12, rom: 256gb",0
+"samsung s24 ultra 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy s24 ultra 12/256gb черный (titanium black) | color: titanium black, ram: 12, rom: 256gb",1
+"samsung s24 ultra 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy m55 12/256gb черный | color: black, ram: 12, rom: 256gb",0
+"samsung s24 ultra 12/256gb (gray) | color: gray, ram: 12, rom: 256gb","samsung galaxy s24 ultra 12/256gb серый (titanium gray) | color: titanium gray, ram: 12, rom: 256gb",1
+"samsung s24 ultra 12/256gb (gray) | color: gray, ram: 12, rom: 256gb","samsung galaxy tab s9+ sm-x810 12/256gb графит | color: gray, ram: 12, rom: 256gb",0
+"samsung s24 ultra 12/256gb (yellow) | color: yellow, ram: 12, rom: 256gb","samsung galaxy s24 ultra 12/256gb желтый (titanium yellow) | color: titanium yellow, ram: 12, rom: 256gb",1
+"samsung s24 ultra 12/512gb (black) | color: black, ram: 12, rom: 512gb","samsung galaxy s24 ultra 12/512gb черный (titanium black) | color: titanium black, ram: 12, rom: 512gb",1
+"samsung s24 ultra 12/512gb (black) | color: black, ram: 12, rom: 512gb","samsung galaxy note 20 ultra 12/512gb черный ru | color: black, ram: 12, rom: 512gb",0
+"samsung s24 ultra 12/512gb (black) | color: black, ram: 12, rom: 512gb","samsung galaxy s24 ultra 12/512gb желтый (titanium yellow) | color: titanium yellow, ram: 12, rom: 512gb",0
+"samsung s24 ultra 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","samsung galaxy tab s9 ultra 5g sm-x916 12/512gb (2023) графит | color: gray, ram: 12, rom: 512gb",0
+"samsung s24 ultra 12/512gb (gray) | color: gray, ram: 12, rom: 512gb","samsung galaxy s24 ultra 12/512gb серый (titanium gray) | color: titanium gray, ram: 12, rom: 512gb",1
+"samsung s24 ultra 12/512gb (violet) | color: violet, ram: 12, rom: 512gb","samsung galaxy s24 ultra 12/512gb желтый (titanium yellow) | color: titanium yellow, ram: 12, rom: 512gb",0
+"samsung tab a9 sm-x110 4/64gb (graphite) | color: graphite, ram: 4, rom: 64gb","samsung galaxy tab a9 lte 4/64gb синий | color: blue, ram: 4, rom: 64gb",0
+"samsung tab a9 sm-x110 4/64gb (navy) | color: navy, ram: 4, rom: 64gb","samsung galaxy tab a9 lte 4/64gb синий | color: blue, ram: 4, rom: 64gb",1
+"samsung tab a9 sm-x110 4/64gb (silver) | color: silver, ram: 4, rom: 64gb","samsung galaxy tab a9 lte 4/64gb серебро | color: silver, ram: 4, rom: 64gb",1
+"samsung tab a9 sm-x110 4/64gb (silver) | color: silver, ram: 4, rom: 64gb","samsung galaxy tab a9 4/64gb серебро | color: silver, ram: 4, rom: 64gb",1
+"samsung tab a9 sm-x110 4/64gb (silver) | color: silver, ram: 4, rom: 64gb","samsung galaxy tab a9 lte 4/64gb синий | color: blue, ram: 4, rom: 64gb",0
+"samsung tab a9 sm-x110 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb серый | color: gray, ram: 8, rom: 128gb",1
+"samsung tab a9 sm-x110 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy tab a9+ 5g 8/128gb серый (graphite) | color: graphite, ram: 8, rom: 128gb",0
+"samsung tab a9 sm-x110 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb синий | color: blue, ram: 8, rom: 128gb",0
+"samsung tab a9 sm-x110 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb синий | color: blue, ram: 8, rom: 128gb",1
+"samsung tab a9 sm-x110 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9+ lte 8/128gb серебро | color: silver, ram: 8, rom: 128gb",0
+"samsung tab a9 sm-x110 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb серебро | color: silver, ram: 8, rom: 128gb",1
+"samsung tab a9 sm-x110 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb синий | color: blue, ram: 8, rom: 128gb",0
+"samsung tab a9 sm-x115 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb серый | color: gray, ram: 8, rom: 128gb",1
+"samsung tab a9 sm-x115 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy tab a9+ 5g 8/128gb серый (graphite) | color: graphite, ram: 8, rom: 128gb",0
+"samsung tab a9 sm-x115 8/128gb (graphite) | color: graphite, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb синий | color: blue, ram: 8, rom: 128gb",0
+"samsung tab a9 sm-x115 8/128gb (navy) | color: navy, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb синий | color: blue, ram: 8, rom: 128gb",1
+"samsung tab a9 sm-x115 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9+ lte 8/128gb серебро | color: silver, ram: 8, rom: 128gb",0
+"samsung tab a9 sm-x115 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb серебро | color: silver, ram: 8, rom: 128gb",1
+"samsung tab a9 sm-x115 8/128gb (silver) | color: silver, ram: 8, rom: 128gb","samsung galaxy tab a9 lte 8/128gb синий | color: blue, ram: 8, rom: 128gb",0
+"sony xperia 1iv gaming edition xq-ct72 16/512gb (black) | color: black, ram: 16, rom: 512gb","sony xperia 1 iv gaming edition 16/512gb черный (black) | color: black, ram: 16, rom: 512gb",1
+"tab a9 x115 lte 4/64gb (graphite) | color: graphite, ram: 4, rom: 64gb","samsung galaxy tab a9 lte 4/64gb серый | color: gray, ram: 4, rom: 64gb",1
+"tab a9 x115 lte 4/64gb (navy) | color: navy, ram: 4, rom: 64gb","samsung galaxy tab a9 lte 4/64gb синий | color: blue, ram: 4, rom: 64gb",1
+"tecno camon 30s 8/128gb (black) | color: black, ram: 8, rom: 128gb","tecno camon 30s 8/128gb черный (celestial black) eac | color: celestial black, ram: 8, rom: 128gb",1
+"tecno spark 30 8/128gb (black) | color: black, ram: 8, rom: 128gb","tecno spark 30 8/128gb черный (stellar shadow) eac | color: stellar shadow, ram: 8, rom: 128gb",1
+"tecno spark 30 8/256gb (black) | color: black, ram: 8, rom: 256gb","tecno spark 30 8/256gb черный (stellar shadow) eac | color: stellar shadow, ram: 8, rom: 256gb",1
+"tecno spark 30 8/256gb (black) | color: black, ram: 8, rom: 256gb","tecno spark 30c 8/256gb черный | color: black, ram: 8, rom: 256gb",0
+"tecno spark 30 8/256gb (black) | color: black, ram: 8, rom: 256gb","tecno spark 30 8/128gb черный (stellar shadow) eac | color: stellar shadow, ram: 8, rom: 128gb",0
+"tecno spark 30 pro 8/128gb (black) | color: black, ram: 8, rom: 128gb","tecno spark 30 pro 8/128gb черный (obsidian edge) eac | color: obsidian edge, ram: 8, rom: 128gb",1
+"tecno spark 30 pro 8/128gb (black) | color: black, ram: 8, rom: 128gb","tecno spark 30 pro 8/128gb белый (arctic glow) eac | color: arctic glow, ram: 8, rom: 128gb",0
+"tecno spark 30 pro 8/128gb (white) | color: white, ram: 8, rom: 128gb","tecno spark 30 pro 8/128gb белый (arctic glow) eac | color: arctic glow, ram: 8, rom: 128gb",1
+"tecno spark 30c 4/128gb (black) | color: black, ram: 4, rom: 128gb","tecno spark 30c 4/128gb черный | color: black, ram: 4, rom: 128gb",1
+"tecno spark 30c 4/128gb (black) | color: black, ram: 4, rom: 128gb","tecno spark 30c 4/128gb белый | color: white, ram: 4, rom: 128gb",0
+"tecno spark 30c 4/128gb (white) | color: white, ram: 4, rom: 128gb","tecno spark 30c 4/128gb белый | color: white, ram: 4, rom: 128gb",1
+"tecno spark go1 4/64gb (black) | color: black, ram: 4, rom: 64gb","tecno spark go 1 4/64gb черный (black) | color: black, ram: 4, rom: 64gb",1
+"z flip6 sm-f741b 12/256gb (blue) | color: blue, ram: 12, rom: 256gb","samsung galaxy z flip6 12/256gb голубой (blue) | color: blue, ram: 12, rom: 256gb",1
+"z flip6 sm-f741b 12/256gb (mint) | color: mint, ram: 12, rom: 256gb","samsung galaxy z flip6 12/256gb мятный (mint) | color: mint, ram: 12, rom: 256gb",1
+"z flip6 sm-f741b 12/512gb (blue) | color: blue, ram: 12, rom: 512gb","samsung galaxy z flip6 12/512gb голубой (blue) | color: blue, ram: 12, rom: 512gb",1
+"z flip6 sm-f741b 12/512gb (peach) | color: peach, ram: 12, rom: 512gb","samsung galaxy z flip6 12/512gb желтый (yellow) | color: yellow, ram: 12, rom: 512gb",1
+"z flip6 sm-f741b 12/512gb (silver shadow) | color: silver shadow, ram: 12, rom: 512gb","samsung galaxy z flip6 12/512gb мятный (mint) | color: mint, ram: 12, rom: 512gb",0
+"z flip6 sm-f741b 12/512gb (yellow) | color: yellow, ram: 12, rom: 512gb","samsung galaxy z flip6 12/512gb желтый (yellow) | color: yellow, ram: 12, rom: 512gb",1
+"z fold5 2/ sm-f946b/ds 12/1024gb (cream) | color: cream, ram: 12, rom: 1024gb","samsung galaxy z fold5 5g 12/1tb бежевый (cream) | color: cream, ram: 12, rom: 1024gb",1
+"z fold5 2/ sm-f946b/ds 12/1024gb (cream) | color: cream, ram: 12, rom: 1024gb","samsung galaxy z fold5 5g 12/1tb черный (phantom black) | color: phantom black, ram: 12, rom: 1024gb",0
+"z fold5 sm-f946b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy z fold5 12/256gb черный (phantom black) | color: phantom black, ram: 12, rom: 256gb",1
+"z fold5 sm-f946b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy z fold4 12/256gb черный (black) | color: black, ram: 12, rom: 256gb",0
+"z fold5 sm-f946b/ds 12/256gb (black) | color: black, ram: 12, rom: 256gb","samsung galaxy z fold5 12/512gb черный (phantom black) | color: phantom black, ram: 12, rom: 512gb",0
+"z fold5 sm-f946b/ds 12/256gb (ice blue) | color: ice blue, ram: 12, rom: 256gb","samsung galaxy z fold5 12/512gb черный (phantom black) | color: phantom black, ram: 12, rom: 512gb",0
+"z fold6 sm-f956b/ds 12/256gb (pink) | color: pink, ram: 12, rom: 256gb","samsung galaxy z fold6 12/256gb розовый (pink) | color: pink, ram: 12, rom: 256gb",1
+"z fold6 sm-f956b/ds 12/512gb (pink) | color: pink, ram: 12, rom: 512gb","samsung galaxy z fold6 12/512gb розовый (pink) | color: pink, ram: 12, rom: 512gb",1
