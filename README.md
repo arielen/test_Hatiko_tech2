@@ -100,6 +100,7 @@ This script uses the `fine_tuned_mpnet_v3` model for **finding similarity betwee
 
 ## 🎥 **Usage presentation**
 ![image](https://github.com/user-attachments/assets/3d87470d-def5-4ebe-a605-b44517d80d37)
+![image](https://github.com/user-attachments/assets/f33875d2-56b0-4362-a460-9088669b878d)
 
 ---
 
