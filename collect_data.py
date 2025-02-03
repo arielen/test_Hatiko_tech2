@@ -465,8 +465,10 @@ def main() -> None:
 
             if best_match_score >= SIMILARITY:
                 best_match = df_shop.iloc[best_match_ind]["Наименование"]
+                foreign_key = df_shop.iloc[best_match_ind]["Внешний код"]
 
                 new_row = {
+                    "Внешний код": foreign_key,
                     "Товар в магазине": best_match,
                     "Поставщик": row["поставщик"],
                     "Цена": row["Цена"],
@@ -476,7 +478,7 @@ def main() -> None:
                 new_df = pd.concat([new_df, pd.DataFrame([new_row])], ignore_index=True)
 
         print(
-            f"[{index + 1}/{len(df_manufacturer)}] - Обработка товара: {row['Сопоставление']}"
+            f"[{index + 1}/{len(df_manufacturer)}] - Обработка товара: {row['прайс']}"
         )
 
     grouped = new_df.groupby("Товар в магазине")
@@ -496,6 +498,46 @@ def main() -> None:
     df_excel.to_excel("output_prices.xlsx", index=False)
 
     print("✅ Excel-файл успешно создан: output_prices.xlsx")
+
+    excel_data_total = []
+
+    for product, group in grouped:
+        row = {"Внешний код": group["Внешний код"].iloc[0], "Наше название": product}
+        for i, (_, item) in enumerate(group.iterrows(), start=1):
+            row[f"рекомендуемая {i}"] = item["Цена"] + item["Цена"] * 0.1
+            row[f"цена {i}"] = item["Цена"]
+            row[f"поставщик {i}"] = item["Поставщик"]
+
+        excel_data_total.append(row)
+
+    all_keys = {key for row in excel_data_total for key in row}
+
+    fixed_order = ["Внешний код", "Наше название"] + sorted(
+        [k for k in all_keys if k.startswith("рекомендуемая")]
+    )
+    supplier_price_pairs = [
+        key
+        for i in range(
+            1,
+            max(
+                (int(k.split()[-1]) for k in all_keys if k.startswith("поставщик")),
+                default=0,
+            )
+            + 1,
+        )
+        for key in (f"поставщик {i}", f"цена {i}")
+        if key in all_keys
+    ]
+    fixed_order += supplier_price_pairs
+
+    excel_data_total = [
+        {key: row.get(key, None) for key in fixed_order} for row in excel_data_total
+    ]
+    df_excel = pd.DataFrame(excel_data_total)
+    df_excel.to_excel("output_prices_total.xlsx", index=False)
+    print(
+        "✅ Excel-файл с рассчетом рекомендуемой цены успешно создан: output_prices_total.xlsx"
+    )
 
 
 if __name__ == "__main__":
